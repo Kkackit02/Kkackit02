@@ -10,7 +10,7 @@
 
 ### 💻 경력...
 
-| Career 	| Date 	| department | Contents |
+| 기관 	| 날짜 	|  | - |
 |:-:	|:-:	|-	|-	|
 |건국대학교(Konkuk University) 	| 2021 - 03 ~ 	| 본전공 : 스마트ICT융합공학과(Smart ICT CONVERGENCE)| 다전공 : 문화콘텐츠학과 (DIGITAL CULTURE & CONTENTS)	|
 
