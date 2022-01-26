@@ -101,7 +101,7 @@
 <a href="https://www.instagram.com/i.root_meow/"><img src="https://img.shields.io/badge/Instragram_i.root__meow-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 ### 📷 사이트...
-<a href="https://https://blog.naver.com/rmssud03/"><img src="https://img.shields.io/badge/NAVER_BLOG-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
+<a href="https://blog.naver.com/rmssud03/"><img src="https://img.shields.io/badge/NAVER_BLOG-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 <a href="https://velog.io/@kkackit02/"><img src="https://img.shields.io/badge/Velog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     
     
