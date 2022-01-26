@@ -12,20 +12,20 @@
 ## SKILL!...
 #### Language 💬...
 <p>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C Charp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C Charp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
 </p>
 
 #### Main Tools 🛠...
 <p>
-    <img src="https://img.shields.io/badge/Unity-E8E8E8?style=flat-square&logo=Unity&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Unity-E8E8E8?style=for-the-badge&logo=Unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal%20Engine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
 #### Sub Tools ⚙...
@@ -73,14 +73,14 @@
 - ArtWork
 
 ### 📫 연락 수단...
-<a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
+<a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER_rmssud03-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 
-<a href="mailto:jgn5493@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jgn5493@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail_jgn5493-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<a href="mailto:kkackit@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/SchoolMail-428813?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
+<a href="mailto:kkackit@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/SchoolMail_kkackit-428813?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
 
-<img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
+<a href="https://instagram.com/i.root_moew"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 <!--
 **Kkackit02/Kkackit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
