@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
     
 <p>
