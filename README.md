@@ -17,15 +17,13 @@
 
 ### 🔭 이런 곳에 속해있어요...
 - Konkuk University - Smart ICT CONVERGENCE
-- Jack's Bean
+- Jack's Bean - Client Programmer
 
 ### 🌱 이런 걸 공부하고있어요 ...
 - Computer Science
 - Unity Engine
 - Unreal Engine
-- Game Programming
-- Game Developing
-- Game Designer
+- Game Programming & Game Desiging | (Game Developing)
 - ArtWork
 
 ### 📫 연락 수단...
