@@ -1,26 +1,30 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### JUNG GEUN NYEONG | 정근녕's GitHub. 
-### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머
-### 환영합니다.
+## Welcome JUNG GEUN NYEONG : 정근녕's GitHub. 
+#### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머입니다.
+#### 환영합니다.
+
+<br/>
 
 
-## STATS...
+## 📃 통계 | STATS!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkackit02&layout=compact&theme=vue)
 
-## SKILL!...
-#### Language 💬...
+
+
+## ✨ 기술 | SKILL!
+### 💬 Language ...
 <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C Charp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-
 </p>
 
-#### Main Tools 🛠...
+
+### 🛠 Main Tools ...
 <p>
     <img src="https://img.shields.io/badge/Unity-E8E8E8?style=for-the-badge&logo=Unity&logoColor=black"/>
     <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal%20Engine&logoColor=white"/>
@@ -28,7 +32,7 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
-#### Sub Tools ⚙...
+### ⚙ Sub Tools ...
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -50,10 +54,9 @@
 </p>
 
 
+<br/>
 
-
-
-
+  
 ### 💻 경력...
 
 | 기관 	| 날짜 	|  | - |
@@ -65,12 +68,14 @@
 - Konkuk University - Smart ICT CONVERGENCE
 - Jack's Bean - Client Programmer
 
+
 ### 🌱 이런 걸 공부하고있어요 ...
 - Computer Science
 - Unity Engine
 - Unreal Engine
 - Game Programming & Game Desiging | (Game Developing)
 - ArtWork
+
 
 ### 📫 연락 수단...
 <a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER_rmssud03-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
@@ -79,9 +84,10 @@
 
 <a href="mailto:kkackit@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/SchoolMail_kkackit-428813?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
+<a href="https://www.instagram.com/i.root_meow/"><img src="https://img.shields.io/badge/Instragram_i.root__meow-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
-<a href="https://www.instagram.com/i.root_meow/"><img src="https://img.shields.io/badge/Instragram_i.root%_meow-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
+    
 <!--
 **Kkackit02/Kkackit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
