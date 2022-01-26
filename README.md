@@ -80,7 +80,7 @@
 <a href="mailto:kkackit@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/SchoolMail_kkackit-428813?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
 
-<a href="https://instagram.com/i.root_moew"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/i.root_meow/"><img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
 <!--
 **Kkackit02/Kkackit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
