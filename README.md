@@ -1,10 +1,69 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### JUNG GEUN NYEONG | 정근녕's GitHub. 
 ### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머
 ### 환영합니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=vue)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Stats...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkackit02&layout=compact&theme=vue)
+
+## Skills
+#### Language)
+<p>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+    <img src="https://img.shields.io/badge/C Charp-239120?style=flat-square&logo=C%20Sharp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
+
+
+</p>
+
+#### Sub
+<p>
+    
+    
+</p>
+
+#### Tools
+<p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Unity-E8E8E8?style=flat-square&logo=Unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=black"/>
+</p>
+
+#### Interesting & Studying
+<p>
+  
+</p>
+<p>
+    
+</p>
+<p>
+    
+</p>
+<p>
+   
+</p>
+
+
+
+
 
 
 
