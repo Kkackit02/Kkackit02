@@ -61,7 +61,10 @@
 
 | 기관 	| 날짜 	| - | - |
 |:-:	|:-:	|-	|-	|
-|건국대학교(Konkuk University) 	| 2021 - 03 ~ 	| 본전공 : 스마트ICT융합공학과(Smart ICT CONVERGENCE)| 다전공 : 문화콘텐츠학과 (DIGITAL CULTURE & CONTENTS)	|
+|넷마블 게임 아카데미 4기 팀 화양연화 | 2019  - 05 ~ 2020 - 01 | 프로그래머 |  |
+|성남고등학교 자율 동아리 ARTLOGIC | 2019 - 03 ~ 2019 - 12 | 동아리장, 기획자 및 프로그래머 |  |
+|건국대학교(Konkuk University) 	| 2021 - 03 ~ | 본전공 : 스마트ICT융합공학과(Smart ICT CONVERGENCE)| 다전공 : 문화콘텐츠학과 (DIGITAL CULTURE & CONTENTS)	|
+|잭스빈(Jack's Bean) | 2021 - 05 ~ | 게임 클라이언트 프로그래머 | |
 
 
 ### 🔭 이런 곳에 속해있어요...
