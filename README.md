@@ -59,7 +59,7 @@
   
 ### 💻 경력...
 
-| 기관 	| 날짜 	|  | - |
+| 기관 	| 날짜 	| - | - |
 |:-:	|:-:	|-	|-	|
 |건국대학교(Konkuk University) 	| 2021 - 03 ~ 	| 본전공 : 스마트ICT융합공학과(Smart ICT CONVERGENCE)| 다전공 : 문화콘텐츠학과 (DIGITAL CULTURE & CONTENTS)	|
 
@@ -80,13 +80,18 @@
 ### 📫 연락 수단...
 <a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER_rmssud03-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 
+
+
 <a href="mailto:jgn5493@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail_jgn5493-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <a href="mailto:kkackit@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/SchoolMail_kkackit-428813?style=flat-square&logo=Minutemailer&logoColor=white"/></a>
 
 <a href="https://www.instagram.com/i.root_meow/"><img src="https://img.shields.io/badge/Instragram_i.root__meow-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
-
+### 📷 사이트...
+<a href="https://https://blog.naver.com/rmssud03/"><img src="https://img.shields.io/badge/NAVER_BLOG-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
+<a href="https://velog.io/@kkackit02/"><img src="https://img.shields.io/badge/Velog-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    
     
 <!--
 **Kkackit02/Kkackit02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
