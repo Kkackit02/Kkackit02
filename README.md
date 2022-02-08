@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=black"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
     
 <p>
