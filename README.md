@@ -3,12 +3,13 @@
 ## Welcome JUNG GEUN NYEONG : 정근녕's GitHub. 
 ### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머입니다.
 .
-- 재미와 쾌감을 한가득 담은 게임을 개발하는 
-- 누군가의 삶을 바꿀 수 있는 콘텐츠를 기획하는  
-- 세상을 스마트하게 살도록 도와주는 프로그램을 개발하는 
-- 우리들이 놓치는 세상의 것들을 발견하도록 돕는
+- 재미와 쾌감을 한가득 담은..
+- 생각이 많아지는 것들을 담은..  
+- 우리들이 세상속에서 놓치는 것들을 담은.. 
 
-### 사람으로 성장 하려다가 현재 군 복무중..!
+    게임들을 만들고 싶습니다.
+
+### 현재 군 복무중..!
 ### 2022.07.25 ~ 2024.01.24
 
 
@@ -41,25 +42,18 @@
 
 ### ⚙ Sub Tools ...
 <p>
-    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=black"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
     
 <p>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
 </p>
 
 <p>
     <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
     <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/>
 </p>
 
@@ -67,7 +61,7 @@
 <br/>
 
   
-### 💻 경력...
+### 💻...
 
 | 기관 	| 날짜 	| - | - |
 |:-:	|:-:	|-	|-	|
@@ -94,8 +88,6 @@
 
 ### 📫 연락 수단...
 <a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER_rmssud03-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
-
-
 
 <a href="mailto:jgn5493@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail_jgn5493-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
