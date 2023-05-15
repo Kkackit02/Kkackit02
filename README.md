@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Welcome JUNG GEUN NYEONG : 정근녕's GitHub. 
+## Welcome JEONG GEUN NYEONG : 정근녕's GitHub. 
 ### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머입니다.
 .
 - 재미와 쾌감을 한가득 담은..
