@@ -35,24 +35,10 @@
 ### 🛠 Main Tools ...
 <p>
     <img src="https://img.shields.io/badge/Unity-E8E8E8?style=for-the-badge&logo=Unity&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
 ### ⚙ Sub Tools ...
 <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-</p>
-    
-<p>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</p>
-
-<p>
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/>
     <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/>
 </p>
 
@@ -69,7 +55,7 @@
 |센치한 디자이너 1기, 2기, 3기| 2020 - 05 ~ 2022 - 04 | 부원 | |
 |건국대학교(Konkuk University) 21학번	| 2021 - 03 ~ | 본전공 : 스마트ICT융합공학과 (Smart ICT CONVERGENCE)| 다전공 : 문화콘텐츠학과 (DIGITAL CULTURE & CONTENTS)	|
 |잭스빈(Jack's Bean) | 2021 - 05 ~ | 게임 클라이언트 프로그래머 | |
-|Ussistant Studio | 2021 - 08 ~ 2022 - 07 | 클라이언트 프로그래머 | 인게임 플레이 구현 |
+|Ussistant Studio | 2021 - 08 ~ 2022 - 07 | 클라이언트 프로그래머 | |
 
 
 ### 🔭 이런 곳에 속해있어요...
