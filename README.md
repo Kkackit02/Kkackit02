@@ -3,26 +3,28 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=근녕하세요!&color=32A84E&animation=twinkling&fontSize=40&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=근녕(根寧)하세요!&color=32A84E&animation=twinkling&fontSize=40&fontColor=000000)
 
 ### Welcome JEONG GEUN NYEONG : 정근녕's GitHub.
 ### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머입니다.
-.
-- 재미와 쾌감을 한가득 담은..
-- 생각이 많아지는 것들을 담은..  
-- 우리들이 세상속에서 놓치는 것들을 담은.. 
-  
-   것들을 만들거야!!
+### 2022.07.25 ~ 2024.01.24 동안 군 복무 중입니다. (^^ゞ 
+---------------------------------------
 
-### 2022.07.25 ~ 2024.01.24 동안 군 복무 중입니다.
+> ### 제가 추구하는 것은요
+>     "재미와 쾌감을 한가득 담은.."     
+>     "생각이 많아지는 것들을 담은.." 
+>     "우리들이 세상속에서 놓치는 것들을 담은.." 
+>                                            것들이랄까요...?
 
 
+---------------------------------------
 <br/>
 
 
 ## 📃 통계 | STATS!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=vue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkackit)](https://solved.ac/kkackit)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=vue)
+
 
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkackit02&layout=compact&theme=vue)-->
 
