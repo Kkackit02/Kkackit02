@@ -3,7 +3,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=근녕(根寧)하세요!&color=32A84E&animation=twinkling&fontSize=40&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=근녕(根寧)하세요!&color=32A84E&fontSize=40&fontColor=000000)
 
 ### Welcome JEONG GEUN NYEONG : 정근녕's GitHub.
 ### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머입니다.
