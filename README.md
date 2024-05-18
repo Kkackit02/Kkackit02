@@ -1,24 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-.
-
-![header](https://capsule-render.vercel.app/api?type=Waving&text=근녕(根寧)하세요!&color=32A84E&fontSize=40&fontColor=000000)
 
 ### Welcome JEONG GEUN NYEONG : 정근녕's GitHub.
-### 건국대학교 스마트ICT융합공학과 21학번 | 게임 클라이언트 프로그래머입니다.
----------------------------------------
-
-> ### 제가 추구하는 것은요
->     "재미와 쾌감을 한가득 담은.."     
->     "생각이 많아지는 것들을 담은.." 
->     "우리들이 세상속에서 놓치는 것들을 담은.." 
->                                             것들을 만드는 것 ..?
-
-
----------------------------------------
-<br/>
-
 
 ## 📃 통계 | STATS!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkackit)](https://solved.ac/kkackit)
@@ -52,7 +36,7 @@
 
 <br/>
 
-  
+  <!--
 ### 💻...
 
 | 기관 	| 날짜 	| - | - |
@@ -76,7 +60,7 @@
 - Unreal Engine
 - Game Programming & Game Desiging | (Game Developing)
 - ArtWork
-
+-->
 
 ### 📫 연락 수단...
 <a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER_rmssud03-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
