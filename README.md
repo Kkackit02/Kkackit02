@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=vue)
 
 
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkackit02&layout=compact&theme=vue)-->
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkackit02&layout=compact&theme=vue)-->
 
 
 ## ✨ 기술 | SKILL!
