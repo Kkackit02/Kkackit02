@@ -6,8 +6,7 @@
 
 ## 📃 통계 | STATS!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkackit)](https://solved.ac/kkackit)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=vue)
-
+![Nyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&count_private=true&show_icons=true)
 
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkackit02&layout=compact&theme=vue)-->
 
