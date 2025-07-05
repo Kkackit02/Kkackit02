@@ -3,6 +3,7 @@
 
 
 ### Welcome JEONG GEUN NYEONG : 정근녕's GitHub.
+![image](https://github.com/user-attachments/assets/d6fd2b6b-8b19-40a3-8585-c57e1d10adf8)
 
 ## 📃 통계 | STATS!
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkackit)](https://solved.ac/kkackit)
