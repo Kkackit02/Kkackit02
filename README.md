@@ -1,5 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kkackit02&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Kkackit02"
+  width="600"
+  height="300"
+/>
+</a>
 
 
 ### Welcome JEONG GEUN NYEONG : 정근녕's GitHub.
