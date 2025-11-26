@@ -1,46 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Kkackit02&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Kkackit02"
-  width="600"
-  height="300"
-/>
-</a>
-
 
 ### Welcome JEONG GEUN NYEONG : 정근녕's GitHub.
 ![image](https://github.com/user-attachments/assets/d6fd2b6b-8b19-40a3-8585-c57e1d10adf8)
-
-## 📃 통계 | STATS!
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkackit)](https://solved.ac/kkackit)
-
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkackit02&layout=compact&theme=vue)-->
-
-
-## ✨ 기술 | SKILL!
-### 💬 Language ...
-<p>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C Charp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-</p>
-
-
-### 🛠 Main Tools ...
-<p>
-    <img src="https://img.shields.io/badge/Unity-E8E8E8?style=for-the-badge&logo=Unity&logoColor=black"/>
-</p>
-
-### ⚙ Sub Tools ...
-<p>
-    <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/>
-</p>
-
-
-<br/>
 
   <!--
 ### 💻...
