@@ -23,13 +23,14 @@
 
 ### 🌐 외부 활동
 
-<table width="140%">
+<table width="100%">
   <thead>
     <tr>
       <th width="25%" align="left">활동&nbsp;&nbsp;</th>
       <th width="14%" align="center">기간&nbsp;</th>
       <th width="61%" align="left">역할 · 내용&nbsp;</th>
     </tr>
+    
   </thead>
   <tbody>
     <tr>
@@ -87,7 +88,7 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="28%" align="left">프로젝트&nbsp;&nbsp;</th>
+      <th width="28%" align="left">프로젝트&nbsp;&nbsp;&nbsp;</th>
       <th width="14%" align="center">기간&nbsp;&nbsp;&nbsp;&nbsp;</th>
       <th width="58%" align="left">역할 · 내용&nbsp;&nbsp;</th>
     </tr>
