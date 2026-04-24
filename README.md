@@ -117,6 +117,11 @@
       <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발<br><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 인터랙티브 미디어 아트</td>
     </tr>
     <tr>
+      <td><b>MT-Go</b><br><small>개인</small></td>
+      <td align="center">2025-04</td>
+      <td>MT 일정 조율 웹 서비스 설계 · 구현<br><a href="https://github.com/Kkackit02/MT-Go">MT-Go</a> · React · TypeScript · Supabase</td>
+    </tr>
+    <tr>
       <td><b>EDGE 2024 상반기</b><br><small><a href="https://github.com/EGDC-24-1-8">EGDC-24-1-8</a></small></td>
       <td align="center">2024</td>
       <td>기획 및 클라이언트 개발<br><a href="https://github.com/EGDC-24-1-8/2024_1_Edge_GameDevContestProject">Unfolded</a> · 카드 사기 게임</td>
