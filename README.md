@@ -51,7 +51,7 @@
       <td><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/">Sound Of Slash</a> 클라이언트 · 백엔드 (<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash">포트폴리오</a>)<br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor">Sound Of Slash Editor</a> 클라이언트 · 채보 변환 AI<br>LoP Survivor PM</td>
     </tr>
     <tr>
-      <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine">풀리퀘스트</a></small></td>
+      <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine">풀리퀘스트</a> · <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP">포트폴리오</a></small></td>
       <td align="center">2025-10<br>~ 2025-11</td>
       <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
     </tr>
@@ -190,7 +190,7 @@
       <td>Vulkan · C · GLSL</td>
     </tr>
     <tr>
-      <td><b>WARP</b> (내일은 머지)</td>
+      <td><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><b>WARP</b> (내일은 머지)</a></td>
       <td align="center">팀</td>
       <td>PUBG <b>Best Game of the Year 2025 🥇</b><br>중간 합류 · 컷씬 매니저 · Enemy · 디버깅</td>
       <td>Unity · C#</td>
