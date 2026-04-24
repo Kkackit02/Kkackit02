@@ -40,7 +40,7 @@
     <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio">UssistantStudio</a></small></td>
       <td align="center">2024-01<br>~ 현재</td>
-      <td>SOS 클라이언트 · 백엔드 / SOS Editor 클라이언트 · 채보 변환 AI / LoP Survivor PM<br>SOS · SOS Editor · LoP Survivor</td>
+      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM</td>
     </tr>
     <tr>
       <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine">풀리퀘스트</a></small></td>
@@ -48,7 +48,7 @@
       <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
     </tr>
     <tr>
-      <td><b>건국대 녹색지대<br>미디어 아트 부스</b><br><small>부스 5팀</small></td>
+      <td><b>건국대학교 녹색지대<br>미디어 아트 부스</b><br><small>5팀</small></td>
       <td align="center">2025</td>
       <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발<br><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 인터랙티브 미디어 아트</td>
     </tr>
@@ -63,12 +63,12 @@
       <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX">11초 게임잼</a> · <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey">Jacks Bean Infinite Monkey</a> · <a href="https://github.com/Kkackit02/F1_Card_Project">F1 Card 그랑프리</a></td>
     </tr>
     <tr>
-      <td><b>넷마블 게임 아카데미 4기</b><br><small>화양연화</small></td>
+      <td><b>넷마블 게임아카데미 4기</b><br><small>화양연화</small></td>
       <td align="center">2019-05<br>~ 2020-01</td>
       <td>기획 · 프로그래머<br><b>대상 🏆</b> · <a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th">US</a></td>
     </tr>
     <tr>
-      <td><b>고등학교 동아리 ARTLOGIC</b><br><small>ARTLOGIC</small></td>
+      <td><b>고등학교 동아리</b><br><small>ARTLOGIC</small></td>
       <td align="center">2019-03<br>~ 2019-12</td>
       <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Zombie_TPS_FPS_Cadaver">Cadaver</a> · <a href="https://github.com/Kkackit02/I-Cross-Way">I-Cross-Way</a> · <a href="https://github.com/Kkackit02/Random_Walk_Infection_Tendency_Simulate">Random Walk</a></td>
     </tr>
