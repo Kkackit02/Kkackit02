@@ -82,9 +82,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="22%" align="left">프로젝트</th>
+      <th width="25%" align="left">프로젝트</th>
       <th width="12%" align="center">기간</th>
-      <th width="66%" align="left">역할 · 내용</th>
+      <th width="63%" align="left">역할 · 내용</th>
     </tr>
   </thead>
   <tbody>
