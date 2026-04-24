@@ -23,7 +23,7 @@
 
 ### 🌐 외부 활동
 
-<table width="100%">
+<table width="140%">
   <thead>
     <tr>
       <th width="25%" align="left">활동</th>
