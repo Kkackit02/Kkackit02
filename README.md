@@ -51,28 +51,25 @@
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 ### 🎮 Game Engine
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+[![Game Engine](https://skillicons.dev/icons?i=unity,unrealengine,cs&theme=dark)](https://skillicons.dev)
 
 ### 🖥 Graphics Programming
+[![Graphics](https://skillicons.dev/icons?i=cpp,c&theme=dark)](https://skillicons.dev)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
-
-### 💻 Language
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
+### 💻 Language
+[![Languages](https://skillicons.dev/icons?i=cpp,c,cs,python,kotlin,ts&theme=dark)](https://skillicons.dev)
+
 ### ☁️ Backend / Infra
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=firebase,supabase&theme=dark)](https://skillicons.dev)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+</div>
 
 ---
 
