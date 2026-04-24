@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Jeong%20Geun%20Nyeong&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Graphics%20Programmer&descAlignY=58&descSize=20" />
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Game+Client+Developer;Graphics+%26+Rendering+Programmer;Game+Engine+Architect;Konkuk+Univ.+CSE+%7C+21%ED%95%99%EB%B2%88)](https://git.io/typing-svg)
@@ -87,17 +85,6 @@
 
 ---
 
-## ⏱ WakaTime Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,22 +93,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkackit02&layout=compact&theme=dark&hide_border=true)](https://github.com/Kkackit02)
 
 [![Streak Stats](https://streak-stats.demolab.com?user=Kkackit02&theme=dark&hide_border=true&date_format=%5BY.%5Dn%2Fj)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kkackit02/Kkackit02/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kkackit02/Kkackit02/dist/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/dist/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kkackit02&theme=github-compact&hide_border=true&area=true)](https://github.com/Kkackit02)
 
 </div>
 
@@ -138,5 +109,3 @@
 <a href="https://blog.naver.com/rmssud03/"><img src="https://img.shields.io/badge/NAVER_Blog-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 <a href="https://velog.io/@kkackit02/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://kkackit.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" />
