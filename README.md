@@ -56,11 +56,6 @@
       <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
     </tr>
     <tr>
-      <td><b>건국대학교<br>녹색지대<br>미디어 아트 부스</b><br><small>5팀</small></td>
-      <td align="center">2025</td>
-      <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발<br><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 인터랙티브 미디어 아트</td>
-    </tr>
-    <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio">UssistantStudio</a></small></td>
       <td align="center">2021-08<br>~ 2022-07</td>
       <td>Ingame Play Programming<br>LastOfPenguin</td>
@@ -117,6 +112,11 @@
       <td>지도 API 연동 · Front 구현 · Firebase DB 연동<br><a href="https://github.com/KU-T07/CampusPeer">CampusPeer</a> · 캠퍼스 모바일 앱 (Kotlin)</td>
     </tr>
     <tr>
+      <td><b>녹색지대<br>미디어 아트 부스</b><br><small>5팀</small></td>
+      <td align="center">2025</td>
+      <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발<br><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 인터랙티브 미디어 아트</td>
+    </tr>
+    <tr>
       <td><b>EDGE 2024 상반기</b><br><small><a href="https://github.com/EGDC-24-1-8">EGDC-24-1-8</a></small></td>
       <td align="center">2024</td>
       <td>기획 및 클라이언트 개발<br><a href="https://github.com/EGDC-24-1-8/2024_1_Edge_GameDevContestProject">Unfolded</a> · 카드 사기 게임</td>
@@ -171,6 +171,18 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><b>Sound of Slash</b></a></td>
+      <td align="center">팀</td>
+      <td>리듬 액션 게임 · <b>Steam Early Access 출시 🎮</b><br>Lead System Architect · Backend · 인게임 로직<br>Firebase · Steam IAP · Server-Authoritative 아키텍처</td>
+      <td>Unity · C# · Firebase · Node.js</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Kkackit02/AutoCake"><b>AutoCake</b></a></td>
+      <td align="center">창업</td>
+      <td>무인 자동화 커스텀 케이크 플랫폼<br>S/W · H/W 통합 아키텍처 설계 · 디자인 추천 AI</td>
+      <td>Web · AI · IoT</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><b>P.R.I.S.M</b></a></td>
       <td align="center">팀</td>
