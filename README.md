@@ -26,9 +26,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="20%" align="left">활동</th>
+      <th width="25%" align="left">활동</th>
       <th width="15%" align="center">기간</th>
-      <th width="65%" align="left">역할 · 내용</th>
+      <th width="60%" align="left">역할 · 내용</th>
     </tr>
   </thead>
   <tbody>
