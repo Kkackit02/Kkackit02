@@ -26,69 +26,51 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="16%" align="left">활동</th>
-      <th width="14%" align="center">팀명</th>
-      <th width="13%" align="center">기간</th>
-      <th width="22%" align="left">역할</th>
-      <th width="35%" align="left">내용</th>
+      <th width="22%" align="left">활동</th>
+      <th width="12%" align="center">기간</th>
+      <th width="66%" align="left">역할 · 내용</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>P.R.I.S.M</td>
-      <td align="center"><a href="https://github.com/Kobold-Troll-Murloc">Kobold-Troll-Murloc</a></td>
-      <td align="center">2026-02 ~ 현재</td>
-      <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구</td>
-      <td><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M">P.R.I.S.M</a> · Vulkan 기반 SoftBody RayTracing Render Engine</td>
+      <td><b>P.R.I.S.M</b><br><small><a href="https://github.com/Kobold-Troll-Murloc">Kobold-Troll-Murloc</a></small></td>
+      <td align="center">2026-02<br>~ 현재</td>
+      <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구 · <a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M">P.R.I.S.M</a> — Vulkan 기반 SoftBody RayTracing Render Engine</td>
     </tr>
     <tr>
-      <td>Ussistant Studio</td>
-      <td align="center"><a href="https://github.com/UssistantStudio">Ussistant Studio</a></td>
-      <td align="center">2024-01 ~ 현재</td>
-      <td>SOS 클라이언트 · 백엔드 · SOS Editor · LoP Survivor PM</td>
-      <td>SOS · SOS Editor · LoP Survivor</td>
+      <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio">UssistantStudio</a></small></td>
+      <td align="center">2024-01<br>~ 현재</td>
+      <td>SOS 클라이언트 · 백엔드 개발 / SOS Editor 클라이언트 · 채보 변환 AI / LoP Survivor PM</td>
     </tr>
     <tr>
-      <td>WARP (내일은 머지)</td>
-      <td align="center"><a href="https://github.com/Merge-is-Mine">풀리퀘스트</a></td>
-      <td align="center">2025-10 ~ 2025-11</td>
-      <td>중간 합류 · 컷씬 매니저 · Enemy · 출시 전 디버깅</td>
-      <td>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
+      <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine">풀리퀘스트</a></small></td>
+      <td align="center">2025-10<br>~ 2025-11</td>
+      <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅 — Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
     </tr>
     <tr>
-      <td>건국대 2025 녹색지대 미디어 아트 부스</td>
-      <td align="center">부스 5팀</td>
+      <td><b>건국대 녹색지대<br>미디어 아트 부스</b><br><small>부스 5팀</small></td>
       <td align="center">2025</td>
-      <td>미디어아트 설계 · 부스 구상 · KONKUK_FLOW 개발</td>
-      <td><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 · 체험형 인터랙티브 미디어 아트</td>
+      <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발 — <a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 인터랙티브 미디어 아트</td>
     </tr>
     <tr>
-      <td>Ussistant Studio</td>
-      <td align="center"><a href="https://github.com/UssistantStudio">Ussistant Studio</a></td>
-      <td align="center">2021-08 ~ 2022-07</td>
-      <td>Ingame Play Programming</td>
-      <td>LastOfPenguin</td>
+      <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio">UssistantStudio</a></small></td>
+      <td align="center">2021-08<br>~ 2022-07</td>
+      <td>Ingame Play Programming — LastOfPenguin</td>
     </tr>
     <tr>
-      <td>Jack's Bean</td>
-      <td align="center"><a href="https://github.com/The-Greatest-UX">Jack's Bean</a></td>
-      <td align="center">2021-05 ~ 2022-07</td>
-      <td>클라이언트 프로그래머</td>
-      <td><a href="https://github.com/The-Greatest-UX/The_Greatest_UX">11초 게임잼 – The Greatest UX</a> · <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey">Jacks Bean Infinite Monkey</a> · <a href="https://github.com/Kkackit02/F1_Card_Project">F1 Card 그랑프리</a></td>
+      <td><b>Jack's Bean</b><br><small><a href="https://github.com/The-Greatest-UX">The-Greatest-UX</a></small></td>
+      <td align="center">2021-05<br>~ 2022-07</td>
+      <td>클라이언트 프로그래머 — <a href="https://github.com/The-Greatest-UX/The_Greatest_UX">11초 게임잼</a> · <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey">Jacks Bean Infinite Monkey</a> · <a href="https://github.com/Kkackit02/F1_Card_Project">F1 Card 그랑프리</a></td>
     </tr>
     <tr>
-      <td>넷마블 게임 아카데미 4기</td>
-      <td align="center">화양연화</td>
-      <td align="center">2019-05 ~ 2020-01</td>
-      <td>기획 · 프로그래머</td>
-      <td><b>대상 🏆</b> · <a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th">US</a></td>
+      <td><b>넷마블 게임 아카데미 4기</b><br><small>화양연화</small></td>
+      <td align="center">2019-05<br>~ 2020-01</td>
+      <td>기획 · 프로그래머 — <b>대상 🏆</b> · <a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th">US</a></td>
     </tr>
     <tr>
-      <td>고등학교 동아리 ARTLOGIC</td>
-      <td align="center">ARTLOGIC</td>
-      <td align="center">2019-03 ~ 2019-12</td>
-      <td>아트디자인 · 기획 · 프로그래머</td>
-      <td><a href="https://github.com/Kkackit02/Zombie_TPS_FPS_Cadaver">Cadaver</a> · <a href="https://github.com/Kkackit02/I-Cross-Way">I-Cross-Way</a> · <a href="https://github.com/Kkackit02/Random_Walk_Infection_Tendency_Simulate">Random Walk</a></td>
+      <td><b>고등학교 동아리 ARTLOGIC</b><br><small>ARTLOGIC</small></td>
+      <td align="center">2019-03<br>~ 2019-12</td>
+      <td>아트디자인 · 기획 · 프로그래머 — <a href="https://github.com/Kkackit02/Zombie_TPS_FPS_Cadaver">Cadaver</a> · <a href="https://github.com/Kkackit02/I-Cross-Way">I-Cross-Way</a> · <a href="https://github.com/Kkackit02/Random_Walk_Infection_Tendency_Simulate">Random Walk</a></td>
     </tr>
   </tbody>
 </table>
@@ -100,62 +82,46 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="20%" align="left">프로젝트</th>
-      <th width="16%" align="center">팀명</th>
-      <th width="11%" align="center">기간</th>
-      <th width="20%" align="left">역할</th>
-      <th width="33%" align="left">내용</th>
+      <th width="22%" align="left">프로젝트</th>
+      <th width="12%" align="center">기간</th>
+      <th width="66%" align="left">역할 · 내용</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>캡스톤 디자인 (졸업프로젝트)</td>
-      <td align="center"><a href="https://github.com/KonkukCSECapstoneTeam2-26-1">KonkukCSECapstoneTeam2</a></td>
-      <td align="center">2026-04 ~ 현재</td>
-      <td>MIDI Parser · 피아노 운지법 변환기 구현</td>
-      <td><a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator">PianoHandSimulator</a></td>
+      <td><b>캡스톤 디자인</b> (졸업프로젝트)<br><small><a href="https://github.com/KonkukCSECapstoneTeam2-26-1">KonkukCSECapstoneTeam2</a></small></td>
+      <td align="center">2026-04<br>~ 현재</td>
+      <td>MIDI Parser · 피아노 운지법 변환기 구현 — <a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator">PianoHandSimulator</a></td>
     </tr>
     <tr>
-      <td>건국대학교 학생복지위원회 홈페이지 개발</td>
-      <td align="center"><a href="https://github.com/41-Welfare-Web">제41대 학생복지위원회 연</a></td>
-      <td align="center">2026-01 ~</td>
-      <td>백엔드 구현 · 클라우드 서비스 관리</td>
-      <td><a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd">KU_WelfareWeb</a> · TypeScript 풀스택 웹 서비스</td>
+      <td><b>학생복지위원회 홈페이지</b><br><small><a href="https://github.com/41-Welfare-Web">제41대 학생복지위원회 연</a></small></td>
+      <td align="center">2026-01<br>~</td>
+      <td>백엔드 구현 · 클라우드 서비스 관리 — <a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd">KU_WelfareWeb</a> · TypeScript 풀스택 웹 서비스</td>
     </tr>
     <tr>
-      <td>소프트웨어 아키텍처 (SOS Editor 아키텍처 개선)</td>
-      <td align="center"><a href="https://github.com/Konkuk-SoftwareArchitecture-7">Konkuk-SoftwareArchitecture-7</a></td>
-      <td align="center">2025-10 ~</td>
-      <td>GridSystem 아키텍처 리팩토링 · 구현</td>
-      <td><a href="https://github.com/Konkuk-SoftwareArchitecture-7/EDITOR">EDITOR</a> · 수업 팀 프로젝트</td>
+      <td><b>소프트웨어 아키텍처</b><br><small><a href="https://github.com/Konkuk-SoftwareArchitecture-7">Konkuk-SoftwareArchitecture-7</a></small></td>
+      <td align="center">2025-10<br>~</td>
+      <td>GridSystem 아키텍처 리팩토링 · 구현 — <a href="https://github.com/Konkuk-SoftwareArchitecture-7/EDITOR">EDITOR</a> · 수업 팀 프로젝트</td>
     </tr>
     <tr>
-      <td>모바일프로그래밍 팀 프로젝트</td>
-      <td align="center"><a href="https://github.com/KU-T07">KU-T07</a></td>
-      <td align="center">2025-04 ~</td>
-      <td>지도 API 연동 · Front 구현 · Firebase DB 연동</td>
-      <td><a href="https://github.com/KU-T07/CampusPeer">CampusPeer</a> · 캠퍼스 모바일 앱 (Kotlin)</td>
+      <td><b>모바일프로그래밍</b><br><small><a href="https://github.com/KU-T07">KU-T07</a></small></td>
+      <td align="center">2025-04<br>~</td>
+      <td>지도 API 연동 · Front 구현 · Firebase DB 연동 — <a href="https://github.com/KU-T07/CampusPeer">CampusPeer</a> · 캠퍼스 모바일 앱 (Kotlin)</td>
     </tr>
     <tr>
-      <td>EDGE 게임개발 경진대회 2024 상반기</td>
-      <td align="center"><a href="https://github.com/EGDC-24-1-8">EGDC-24-1-8</a></td>
+      <td><b>EDGE 2024 상반기</b><br><small><a href="https://github.com/EGDC-24-1-8">EGDC-24-1-8</a></small></td>
       <td align="center">2024</td>
-      <td>기획 및 클라이언트 개발</td>
-      <td><a href="https://github.com/EGDC-24-1-8/2024_1_Edge_GameDevContestProject">Unfolded</a> · 카드 사기 게임</td>
+      <td>기획 및 클라이언트 개발 — <a href="https://github.com/EGDC-24-1-8/2024_1_Edge_GameDevContestProject">Unfolded</a> · 카드 사기 게임</td>
     </tr>
     <tr>
-      <td>EDGE 게임개발 경진대회 2021 하반기</td>
-      <td align="center">개인</td>
+      <td><b>EDGE 2021 하반기</b><br><small>개인</small></td>
       <td align="center">2021</td>
-      <td>기획 · 디자인 · 클라이언트 개발</td>
-      <td><a href="https://github.com/Kkackit02/Operation_Ragnarok">Operation Ragnarok</a></td>
+      <td>기획 · 디자인 · 클라이언트 개발 — <a href="https://github.com/Kkackit02/Operation_Ragnarok">Operation Ragnarok</a></td>
     </tr>
     <tr>
-      <td>EDGE 게임개발 경진대회 2021 상반기</td>
-      <td align="center"><a href="https://github.com/Hi-Juice">Hi-Juice</a></td>
+      <td><b>EDGE 2021 상반기</b><br><small><a href="https://github.com/Hi-Juice">Hi-Juice</a></small></td>
       <td align="center">2021</td>
-      <td>인게임 보스 · 전반적인 기능 개발</td>
-      <td><a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ">The Strange Land of OZ</a> · <b>1등 수상 🥇</b></td>
+      <td>인게임 보스 · 전반적인 기능 개발 — <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ">The Strange Land of OZ</a> · <b>1등 수상 🥇</b></td>
     </tr>
   </tbody>
 </table>
@@ -190,61 +156,53 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="17%" align="left">프로젝트</th>
-      <th width="35%" align="left">설명</th>
-      <th width="6%" align="center">분류</th>
-      <th width="22%" align="left">역할</th>
-      <th width="20%" align="left">기술</th>
+      <th width="20%" align="left">프로젝트</th>
+      <th width="45%" align="left">설명</th>
+      <th width="7%" align="center">분류</th>
+      <th width="28%" align="left">기술</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><b>P.R.I.S.M</b></a></td>
-      <td>Vulkan 기반 SoftBody RayTracing Render Engine</td>
+      <td>Vulkan 기반 SoftBody RayTracing Render Engine · 엔진 아키텍처 설계 · RayTracing 렌더링 연구</td>
       <td align="center">팀</td>
-      <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구</td>
       <td>Vulkan · C · GLSL</td>
     </tr>
     <tr>
       <td><b>WARP</b> (내일은 머지)</td>
-      <td>Unity 게임 · PUBG <b>Best Game of the Year 2025 🥇</b></td>
+      <td>Unity 게임 · PUBG <b>Best Game of the Year 2025 🥇</b> · 중간 합류 · 컷씬 매니저 · Enemy · 디버깅</td>
       <td align="center">팀</td>
-      <td>중간 합류 · 컷씬 매니저 · Enemy · 디버깅</td>
       <td>Unity · C#</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Kkackit02/SPELL_THE_SPELL_REMASTER"><b>SPELL THE SPELL REMASTER</b></a></td>
       <td>SPELL을 SPELL해 적을 물리치는 2D 플랫포머 로그라이크</td>
       <td align="center">개인</td>
-      <td>-</td>
       <td>Unity · C#</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Kkackit02/Graphics-Programming-Lab"><b>Graphics Programming Lab</b></a></td>
       <td>OpenGL / Vulkan 그래픽스 렌더링 실습 아카이브</td>
       <td align="center">개인</td>
-      <td>-</td>
       <td>OpenGL · Vulkan · C++</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Kkackit02/KONKUK_FLOW"><b>KONKUK FLOW</b></a></td>
       <td>건국대 2025 녹색지대 여름축제 미디어 아트 부스 · 체험형 인터랙티브 콘텐츠</td>
       <td align="center">팀</td>
-      <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발</td>
       <td>Unity · C#</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><b>US – 넷마블 게임 아카데미 4기</b></a></td>
       <td>팀 &lt;화양연화&gt; 제작 게임 · <b>대상 🏆</b></td>
       <td align="center">팀</td>
-      <td>기획 · 프로그래머</td>
       <td>Unity · C#</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Kkackit02/Operation_Ragnarok"><b>Operation Ragnarok</b></a></td>
-      <td>건국대 EDGE 게임개발 경진대회 2021 하반기 출품작</td>
+      <td>건국대 EDGE 게임개발 경진대회 2021 하반기 출품작 · 기획 · 디자인 · 클라이언트 개발</td>
       <td align="center">개인</td>
-      <td>기획 · 디자인 · 클라이언트 개발</td>
       <td>Unity · C#</td>
     </tr>
   </tbody>
