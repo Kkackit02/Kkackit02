@@ -2,7 +2,7 @@
 
 # 정근녕 (Jeong Geun Nyeong)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Game+Client+Developer;Graphics+%26+Rendering+Programmer;Game+Engine+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Game+Client+Developer;Graphics+%26+Rendering+Programmer;Game+Engine+Developer)](https://git.io/typing-svg)
 
 
 [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FKkackit02%2FKkackit02&label=views&icon=github&color=%2379C83D)](https://hitscounter.dev)
