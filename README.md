@@ -27,8 +27,8 @@
   <thead>
     <tr>
       <th width="25%" align="left">활동</th>
-      <th width="13%" align="center">기간</th>
-      <th width="62%" align="left">역할 · 내용</th>
+      <th width="14%" align="center">기간</th>
+      <th width="61%" align="left">역할 · 내용</th>
     </tr>
   </thead>
   <tbody>
