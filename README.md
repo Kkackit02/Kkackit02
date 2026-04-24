@@ -59,22 +59,22 @@
       <td>Ussistant Studio</td>
       <td align="center"><a href="https://github.com/UssistantStudio">Ussistant Studio</a></td>
       <td align="center">2024-01 ~ 현재</td>
-      <td>SOS: 클라이언트 프로그래밍 · 백엔드 개발 · SOS Editor: 클라이언트 프로그래밍 · 채보 변환 AI 개발 · LoP Survivor: PM</td>
+      <td>SOS: 클라이언트 · 백엔드 · SOS Editor: 클라이언트 · AI · LoP Survivor: PM</td>
       <td>SOS · SOS Editor · LoP Survivor</td>
     </tr>
     <tr>
       <td>WARP (내일은 머지)</td>
       <td align="center"><a href="https://github.com/Merge-is-Mine">풀리퀘스트</a></td>
       <td align="center">2025-10 ~ 2025-11</td>
-      <td>개발 중간 합류 · 컷씬 매니저 개발 · Enemy 개발 · 출시 전 디버깅</td>
+      <td>중간 합류 · 컷씬 매니저 · Enemy · 출시 전 디버깅</td>
       <td>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
     </tr>
     <tr>
       <td>건국대 2025 녹색지대 미디어 아트 부스</td>
       <td align="center">부스 5팀</td>
       <td align="center">2025</td>
-      <td>미디어아트 설계 및 부스 구상 · 체험형 프로그램 개발</td>
-      <td><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 · 체험형 인터랙티브 미디어 아트 콘텐츠</td>
+      <td>미디어아트 설계 · 부스 구상 · KONKUK_FLOW 개발</td>
+      <td><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 · 체험형 인터랙티브 미디어 아트</td>
     </tr>
     <tr>
       <td>Ussistant Studio</td>
@@ -138,14 +138,14 @@
       <td>소프트웨어 아키텍처 (SOS Editor 아키텍처 개선)</td>
       <td align="center"><a href="https://github.com/Konkuk-SoftwareArchitecture-7">Konkuk-SoftwareArchitecture-7</a></td>
       <td align="center">2025-10 ~</td>
-      <td>GridSystem 아키텍처 리팩토링 및 개선 · 구현</td>
+      <td>GridSystem 아키텍처 리팩토링 · 구현</td>
       <td><a href="https://github.com/Konkuk-SoftwareArchitecture-7/EDITOR">EDITOR</a> · 수업 팀 프로젝트</td>
     </tr>
     <tr>
       <td>모바일프로그래밍 팀 프로젝트</td>
       <td align="center"><a href="https://github.com/KU-T07">KU-T07</a></td>
       <td align="center">2025-04 ~</td>
-      <td>지도 API 연동 및 Front 구현 · Firebase DB 서버 연동</td>
+      <td>지도 API 연동 · Front 구현 · Firebase DB 연동</td>
       <td><a href="https://github.com/KU-T07/CampusPeer">CampusPeer</a> · 캠퍼스 모바일 앱 (Kotlin)</td>
     </tr>
     <tr>
@@ -222,7 +222,7 @@
       <td><b>WARP</b> (내일은 머지)</td>
       <td>Unity 게임 · PUBG <b>Best Game of the Year 2025 🥇</b></td>
       <td align="center">팀</td>
-      <td>개발 중간 합류 · 컷씬 매니저 개발 · Enemy 개발 · 출시 전 디버깅</td>
+      <td>중간 합류 · 컷씬 매니저 · Enemy · 디버깅</td>
       <td>Unity · C#</td>
     </tr>
     <tr>
@@ -243,7 +243,7 @@
       <td><a href="https://github.com/Kkackit02/KONKUK_FLOW"><b>KONKUK FLOW</b></a></td>
       <td>건국대 2025 녹색지대 여름축제 미디어 아트 부스 · 체험형 인터랙티브 콘텐츠</td>
       <td align="center">팀</td>
-      <td>미디어아트 설계 및 부스 구상 · 체험형 프로그램 개발</td>
+      <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발</td>
       <td>Unity · C#</td>
     </tr>
     <tr>
