@@ -15,7 +15,7 @@
 ## 🎓 학력
 
 🏫 **건국대학교 (Konkuk University)** · 21학번 · `2021-03 ~`
-<br>컴퓨터공학부 · 前 스마트ICT융합공학과
+&nbsp;&nbsp;&nbsp;&nbsp;컴퓨터공학부 · 前 스마트ICT융합공학과
 
 ---
 
@@ -45,7 +45,7 @@
       <td>Ussistant Studio</td>
       <td align="center"><a href="https://github.com/UssistantStudio">Ussistant Studio</a></td>
       <td align="center">2024-01 ~ 현재</td>
-      <td>SOS: 클라이언트 · 백엔드 · SOS Editor: 클라이언트 · AI · LoP Survivor: PM</td>
+      <td>SOS 클라이언트 · 백엔드 · SOS Editor · LoP Survivor PM</td>
       <td>SOS · SOS Editor · LoP Survivor</td>
     </tr>
     <tr>
@@ -92,6 +92,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 
 ### 🏫 학교 프로젝트 (건국대)
 
@@ -167,14 +169,13 @@
 ### 🎮 Game Engine
 [![Game Engine](https://skillicons.dev/icons?i=unity,unrealengine,cs&theme=dark)](https://skillicons.dev)
 
-### 🖥 Graphics Programming
-[![Graphics](https://skillicons.dev/icons?i=cpp,c&theme=dark)](https://skillicons.dev)
+### 💻 Language
+[![Languages](https://skillicons.dev/icons?i=cpp,c,cs,python,kotlin,ts&theme=dark)](https://skillicons.dev)
+
+### 🖥 Graphics
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-
-### 💻 Language
-[![Languages](https://skillicons.dev/icons?i=cpp,c,cs,python,kotlin,ts&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Backend / Infra
 [![Backend](https://skillicons.dev/icons?i=firebase,supabase&theme=dark)](https://skillicons.dev)
@@ -190,9 +191,9 @@
   <thead>
     <tr>
       <th width="17%" align="left">프로젝트</th>
-      <th width="33%" align="left">설명</th>
+      <th width="35%" align="left">설명</th>
       <th width="6%" align="center">분류</th>
-      <th width="24%" align="left">역할</th>
+      <th width="22%" align="left">역할</th>
       <th width="20%" align="left">기술</th>
     </tr>
   </thead>
@@ -258,19 +259,21 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=dark&hide_border=true)](https://github.com/Kkackit02)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkackit02&layout=compact&theme=dark&hide_border=true)](https://github.com/Kkackit02)
 
+<br>
+
 [![Streak Stats](https://streak-stats.demolab.com?user=Kkackit02&theme=dark&hide_border=true&date_format=%5BY.%5Dn%2Fj)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Blog
 
 <a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER_rmssud03-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 <a href="mailto:jgn5493@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail_jgn5493-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/i.root_meow/"><img src="https://img.shields.io/badge/Instagram_i.root__meow-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-## 📝 Blog
+<br>
 
 <a href="https://blog.naver.com/rmssud03/"><img src="https://img.shields.io/badge/NAVER_Blog-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 <a href="https://velog.io/@kkackit02/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
