@@ -36,7 +36,7 @@
     <tr>
       <td><b>AutoCake</b><br><small><a href="https://github.com/Kkackit02/AutoCake">AutoCake</a></small></td>
       <td align="center">2026-04<br>~ 현재</td>
-      <td>무인 자동화 커스텀 케이크 플랫폼 창업 기획<br>S/W·H/W 통합 아키텍처 설계 · 웹 에디터 · AI 디자인 추천 · 로봇 팔 데코레이션 · 스마트 라커 픽업</td>
+      <td>무인 자동화 커스텀 케이크 플랫폼 창업 기획<br>S/W·H/W 통합 아키텍처 설계 · 웹 · 디자인 추천 AI · 레터링 프린터 · 스마트 픽업</td>
     </tr>
     <tr>
       <td><b>P.R.I.S.M</b><br><small><a href="https://github.com/Kobold-Troll-Murloc">Kobold-Troll-Murloc</a></small></td>
