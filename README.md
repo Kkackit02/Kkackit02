@@ -33,6 +33,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>AutoCake</b><br><small><a href="https://github.com/Kkackit02/AutoCake">AutoCake</a></small></td>
+      <td align="center">2026-04<br>~ 현재</td>
+      <td>무인 자동화 커스텀 케이크 플랫폼 창업 기획<br>S/W·H/W 통합 아키텍처 설계 · 웹 에디터 · AI 디자인 추천 · 로봇 팔 데코레이션 · 스마트 라커 픽업</td>
+    </tr>
+    <tr>
       <td><b>P.R.I.S.M</b><br><small><a href="https://github.com/Kobold-Troll-Murloc">Kobold-Troll-Murloc</a></small></td>
       <td align="center">2026-02<br>~ 현재</td>
       <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구<br><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M">P.R.I.S.M</a> · Vulkan 기반 SoftBody RayTracing Render Engine</td>
@@ -60,7 +65,7 @@
     <tr>
       <td><b>Jack's Bean</b><br><small><a href="https://github.com/The-Greatest-UX">The-Greatest-UX</a></small></td>
       <td align="center">2021-05<br>~ 2022-07</td>
-      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX">11초 게임잼</a> · <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey">Jacks Bean Infinite Monkey</a> · <a href="https://github.com/Kkackit02/F1_Card_Project">F1 Card 그랑프리</a></td>
+      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX">11초 게임잼</a> · <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey">Jacks Bean Infinite Monkey</a> · <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card">F1 Card 그랑프리</a></td>
     </tr>
     <tr>
       <td><b>넷마블 게임아카데미 4기</b><br><small>화양연화</small></td>
@@ -70,7 +75,7 @@
     <tr>
       <td><b>고등학교 동아리</b><br><small>ARTLOGIC</small></td>
       <td align="center">2019-03<br>~ 2019-12</td>
-      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Zombie_TPS_FPS_Cadaver">Cadaver</a> · <a href="https://github.com/Kkackit02/I-Cross-Way">I-Cross-Way</a> · <a href="https://github.com/Kkackit02/Random_Walk_Infection_Tendency_Simulate">Random Walk</a></td>
+      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver">Cadaver</a> · <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way">I-Cross-Way</a> · <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate">Random Walk</a></td>
     </tr>
   </tbody>
 </table>
