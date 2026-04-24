@@ -23,12 +23,12 @@
 
 ### 🌐 외부 활동
 
-<table width="120%">
+<table width="100%">
   <thead>
     <tr>
-      <th width="30%" align="left">활동</th>
+      <th width="20%" align="left">활동</th>
       <th width="15%" align="center">기간</th>
-      <th width="85%" align="left">역할 · 내용</th>
+      <th width="65%" align="left">역할 · 내용</th>
     </tr>
   </thead>
   <tbody>
@@ -48,7 +48,7 @@
       <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
     </tr>
     <tr>
-      <td><b>건국대학교 녹색지대<br>미디어 아트 부스</b><br><small>5팀</small></td>
+      <td><b>건국대학교<br>녹색지대<br>미디어 아트 부스</b><br><small>5팀</small></td>
       <td align="center">2025</td>
       <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발<br><a href="https://github.com/Kkackit02/KONKUK_FLOW">KONKUK_FLOW</a> · 건국대 여름축제 인터랙티브 미디어 아트</td>
     </tr>
