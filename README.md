@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Jeong%20Geun%20Nyeong&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Graphics%20Programmer&descAlignY=58&descSize=20" />
+
 <div align="center">
 
-# 안녕하세요, 저는 정근녕입니다 👋
-
-**Game Developer & Graphics Programmer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Game+Client+Developer;Graphics+%26+Rendering+Programmer;Game+Engine+Architect;Konkuk+Univ.+CSE+%7C+21%ED%95%99%EB%B2%88)](https://git.io/typing-svg)
 
 건국대학교 컴퓨터공학부 재학 중 · 게임 클라이언트 / 그래픽스 / 게임 엔진 개발자 취준 중
 
@@ -103,19 +103,27 @@
 
 ---
 
-## 🚀 For Fun
+## 🐍 Contribution Graph
 
 <div align="center">
 
-### 🐍 Here Lies a Snake Eating My Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kkackit02/Kkackit02/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kkackit02/Kkackit02/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kkackit02/Kkackit02/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kkackit02/Kkackit02/dist/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/dist/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-### 🧊 My Contributions in 3D
-[![Kkackit02's 3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?github_username=Kkackit02&color=44,105,222&background=0,0,0,0&border=0,0,0,0)](https://github.com/Kkackit02)
+[![3D Contribution](https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Kkackit02)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -132,3 +140,5 @@
 <a href="https://blog.naver.com/rmssud03/"><img src="https://img.shields.io/badge/NAVER_Blog-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 <a href="https://velog.io/@kkackit02/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://kkackit.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" />
