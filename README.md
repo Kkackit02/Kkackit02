@@ -6,7 +6,7 @@
 
 건국대학교 컴퓨터공학부 재학 중 · 게임 클라이언트 / 그래픽스 / 게임 엔진 개발자 취준 중
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FKkackit02%2FKkackit02&label=views&icon=github&color=%2379C83D)](https://hitscounter.dev)
 
 </div>
 
