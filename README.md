@@ -152,7 +152,7 @@
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
 ### ☁️ Backend / Infra
-[![Backend](https://skillicons.dev/icons?i=firebase,supabase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,firebase,supabase&theme=dark)](https://skillicons.dev)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 </div>
