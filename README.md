@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkackit02&count_bg=%2379C83D&title_bg=%23555555&icon=unity.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 ### Welcome JEONG GEUN NYEONG : 정근녕's GitHub.
 ![image](https://github.com/user-attachments/assets/d6fd2b6b-8b19-40a3-8585-c57e1d10adf8)
 
