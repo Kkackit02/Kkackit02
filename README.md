@@ -82,14 +82,14 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="25%" align="left">프로젝트</th>
-      <th width="12%" align="center">기간</th>
-      <th width="63%" align="left">역할 · 내용</th>
+      <th width="28%" align="left">프로젝트</th>
+      <th width="14%" align="center">기간</th>
+      <th width="58%" align="left">역할 · 내용</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>캡스톤 디자인</b> (졸업프로젝트)<br><small><a href="https://github.com/KonkukCSECapstoneTeam2-26-1">KonkukCSECapstoneTeam2</a></small></td>
+      <td><b>캡스톤 디자인</b>(졸업프로젝트)<br><small><a href="https://github.com/KonkukCSECapstoneTeam2-26-1">KonkukCSECapstoneTeam2</a></small></td>
       <td align="center">2026-04<br>~ 현재</td>
       <td>MIDI Parser · 피아노 운지법 변환기 구현<br><a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator">PianoHandSimulator</a></td>
     </tr>
