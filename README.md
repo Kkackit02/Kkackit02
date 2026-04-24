@@ -48,7 +48,7 @@
     <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio">UssistantStudio</a></small></td>
       <td align="center">2024-01<br>~ 현재</td>
-      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM</td>
+      <td><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/">Sound Of Slash</a> 클라이언트 · 백엔드 (<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash">포트폴리오</a>)<br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor">Sound Of Slash Editor</a> 클라이언트 · 채보 변환 AI<br>LoP Survivor PM</td>
     </tr>
     <tr>
       <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine">풀리퀘스트</a></small></td>
