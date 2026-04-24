@@ -14,22 +14,8 @@
 
 ## 🎓 학력
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="35%" align="left">학교</th>
-      <th width="15%" align="center">기간</th>
-      <th width="50%" align="left">전공</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>건국대학교 (Konkuk University)</b> 21학번</td>
-      <td align="center">2021-03 ~</td>
-      <td>컴퓨터공학부 · 前 스마트ICT융합공학과</td>
-    </tr>
-  </tbody>
-</table>
+🏫 **건국대학교 (Konkuk University)** · 21학번 · `2021-03 ~`
+<br>컴퓨터공학부 · 前 스마트ICT융합공학과
 
 ---
 
