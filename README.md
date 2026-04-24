@@ -41,11 +41,6 @@
       <td>무인 자동화 커스텀 케이크 플랫폼 창업 기획<br>S/W·H/W 통합 아키텍처 설계 · 웹 · 디자인 추천 AI · 레터링 프린터 · 스마트 픽업</td>
     </tr>
     <tr>
-      <td><b>P.R.I.S.M</b><br><small><a href="https://github.com/Kobold-Troll-Murloc">Kobold-Troll-Murloc</a></small></td>
-      <td align="center">2026-02<br>~ 현재</td>
-      <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구<br><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M">P.R.I.S.M</a> · Vulkan 기반 SoftBody RayTracing Render Engine</td>
-    </tr>
-    <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio">UssistantStudio</a></small></td>
       <td align="center">2024-01<br>~ 현재</td>
       <td><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/">Sound Of Slash</a> 클라이언트 · 백엔드 (<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash">포트폴리오</a>)<br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor">Sound Of Slash Editor</a> 클라이언트 · 채보 변환 AI<br>LoP Survivor PM</td>
@@ -91,6 +86,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b>P.R.I.S.M</b><br><small><a href="https://github.com/Kobold-Troll-Murloc">Kobold-Troll-Murloc</a></small></td>
+      <td align="center">2026-02<br>~ 현재</td>
+      <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구<br><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M">P.R.I.S.M</a> · Vulkan 기반 SoftBody RayTracing Render Engine</td>
+    </tr>
     <tr>
       <td><b>캡스톤 디자인</b>(졸업프로젝트)<br><small><a href="https://github.com/KonkukCSECapstoneTeam2-26-1">KonkukCSECapstoneTeam2</a></small></td>
       <td align="center">2026-04<br>~ 현재</td>
