@@ -97,7 +97,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kkackit02&show_icons=true&theme=dark&hide_border=true)](https://github.com/Kkackit02)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkackit02&layout=compact&theme=dark&hide_border=true)](https://github.com/Kkackit02)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Kkackit02&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/Kkackit02)
+[![Streak Stats](https://streak-stats.demolab.com?user=Kkackit02&theme=dark&hide_border=true&date_format=%5BY.%5Dn%2Fj)](https://git.io/streak-stats)
 
 </div>
 
@@ -113,17 +113,7 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/dist/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-[![3D Contribution](https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Kkackit02)
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kkackit02&theme=github-compact&hide_border=true&area=true)](https://github.com/Kkackit02)
 
 </div>
 
