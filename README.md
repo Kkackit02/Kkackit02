@@ -42,12 +42,12 @@
     <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/GitHub-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2024-01<br>~ 현재</td>
-      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM<br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/Portfolio-SoundOfSlash-0969DA?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/GitHub-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM<br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/GitHub-SoundOfSlash-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/GitHub-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/GitHub-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/Portfolio-Game_Dev_Archive-0969DA?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/GitHub-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2025-10<br>~ 2025-11</td>
-      <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b></td>
+      <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/GitHub-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/GitHub-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
@@ -57,17 +57,17 @@
     <tr>
       <td><b>Jack's Bean</b><br><small><a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/GitHub-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2021-05<br>~ 2022-07</td>
-      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/GitHub-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey"><img src="https://img.shields.io/badge/GitHub-Jacks_Bean_Infinite_Monkey-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/Portfolio-F1_Card-0969DA?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/GitHub-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey"><img src="https://img.shields.io/badge/GitHub-Jacks_Bean_Infinite_Monkey-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/GitHub-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
       <td><b>넷마블 게임아카데미 4기</b><br><small>화양연화</small></td>
       <td align="center">2019-05<br>~ 2020-01</td>
-      <td>기획 · 프로그래머<br><b>대상 🏆</b> <a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/GitHub-US_Netmarble_4th-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>기획 · 프로그래머 · <b>대상 🏆</b><br><a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/GitHub-US_Netmarble_4th-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
       <td><b>고등학교 동아리</b><br><small>ARTLOGIC</small></td>
       <td align="center">2019-03<br>~ 2019-12</td>
-      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/Portfolio-Cadaver-0969DA?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/Portfolio-I--Cross--Way-0969DA?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate"><img src="https://img.shields.io/badge/Portfolio-Random_Walk-0969DA?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/GitHub-Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/GitHub-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate"><img src="https://img.shields.io/badge/GitHub-Random_Walk-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
@@ -133,7 +133,7 @@
     <tr>
       <td><b>EDGE 2021 상반기</b><br><small><a href="https://github.com/Hi-Juice"><img src="https://img.shields.io/badge/GitHub-Hi--Juice-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2021</td>
-      <td>인게임 보스 · 전반적인 기능 개발<br><b>1등 수상 🥇</b> <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/GitHub-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>인게임 보스 · 전반적인 기능 개발 · <b>1등 수상 🥇</b><br><a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/GitHub-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
@@ -194,7 +194,7 @@
       <td>Vulkan · C · GLSL</td>
     </tr>
     <tr>
-      <td><b>WARP</b> (내일은 머지)<br><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/GitHub-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/Portfolio-Game_Dev_Archive-0969DA?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td><b>WARP</b> (내일은 머지)<br><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/GitHub-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/GitHub-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
       <td align="center">팀</td>
       <td>PUBG <b>Best Game of the Year 2025 🥇</b><br>중간 합류 · 컷씬 매니저 · Enemy · 디버깅</td>
       <td>Unity · C#</td>
