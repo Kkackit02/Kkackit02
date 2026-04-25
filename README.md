@@ -42,7 +42,7 @@
     <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2024-01<br>~ 현재</td>
-      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM<br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoundOfSlash-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM<br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoundOfSlash-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
       <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
@@ -57,7 +57,7 @@
     <tr>
       <td><b>Jack's Bean</b><br><small><a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2021-05<br>~ 2022-07</td>
-      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Jacks_Bean_Infinite_Monkey-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Jacks_Bean_Infinite_Monkey-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
       <td><b>넷마블 게임아카데미 4기</b><br><small>화양연화</small></td>
@@ -67,7 +67,7 @@
     <tr>
       <td><b>고등학교 동아리</b><br><small>ARTLOGIC</small></td>
       <td align="center">2019-03<br>~ 2019-12</td>
-      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Random_Walk-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Random_Walk-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
@@ -176,7 +176,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Sound of Slash</b><br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Ussistant--Studio--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td><b>Sound of Slash</b><br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Ussistant--Studio--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
       <td align="center">팀</td>
       <td>리듬 액션 게임 · <b>Steam Early Access 출시 🎮</b><br>Lead System Architect · Backend · 인게임 로직<br>Firebase · Steam IAP · Server-Authoritative 아키텍처</td>
       <td>Unity · C# · Firebase · Node.js</td>
@@ -194,7 +194,7 @@
       <td>Vulkan · C · GLSL</td>
     </tr>
     <tr>
-      <td><b>WARP</b> (내일은 머지)<br><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td><b>WARP</b> (내일은 머지)<br><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
       <td align="center">팀</td>
       <td>PUBG <b>Best Game of the Year 2025 🥇</b><br>중간 합류 · 컷씬 매니저 · Enemy · 디버깅</td>
       <td>Unity · C#</td>
