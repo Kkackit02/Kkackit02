@@ -232,6 +232,9 @@ Sound Of Slash 전용 채보 에디터<br>
 건국대 EDGE 게임개발 경진대회 2021 상반기 · <b>1등 수상 🥇</b><br>
 인게임 보스 · 전반적인 기능 개발<br>
 <sub>Unity · C#</sub><br>
+<a href="https://drive.google.com/file/d/17lJmuAq_2aW6U0RQ_19-MVV6Bw4OS2RN/view"><img src="https://img.shields.io/badge/Download-OZ-blue?style=flat-square&logo=google-drive&logoColor=white"/></a>
+<a href="https://www.youtube.com/watch?v=qWUD9Z2Uv_w"><img src="https://img.shields.io/badge/Trailer-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://youtu.be/dYBezBhVxqI"><img src="https://img.shields.io/badge/Gameplay-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/Hi-Juice"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Hi--Juice-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -278,13 +281,6 @@ Jack's Bean 팀 개발 카드 게임<br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Game-Development-Archive"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png" width="100%"/></a><br>
-<b>Game Development Archive</b> <code>개인</code><br>
-개인 게임 개발 프로젝트 아카이브<br>
-WARP · ARTLOGIC 동아리 작품 등 다수<br>
-<sub>Unity · C#</sub><br>
-<a href="https://github.com/Kkackit02/Game-Development-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game--Development--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<br><br>
 </td>
 
 </tr><tr valign="top">
@@ -368,6 +364,7 @@ OpenGL / Vulkan 그래픽스 렌더링 실습 아카이브<br>
 TypeScript 풀스택 웹 서비스 · 실서비스 운영<br>
 백엔드 구현 · 클라우드 서비스 관리<br>
 <sub>TypeScript · NestJS · Supabase</sub><br>
+<a href="https://ku-welfare-web.vercel.app/"><img src="https://img.shields.io/badge/홈페이지-000000?style=flat-square&logo=vercel&logoColor=white"/></a><br>
 <a href="https://github.com/41-Welfare-Web"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-41--Welfare--Web-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU_WelfareWeb_BackEnd-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
