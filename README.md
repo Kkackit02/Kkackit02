@@ -213,7 +213,7 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 </tr><tr valign="top">
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://opengraph.githubassets.com/1/Kkackit02/Operation_Ragnarok" width="100%"/></a><br>
+<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/assets/OperationRagnarok.png" width="100%"/></a><br>
 <b>Operation Ragnarok</b> <code>개인</code><br>
 건국대 EDGE 게임개발 경진대회 2021 하반기 출품작<br>
 <sub>Unity · C#</sub><br>
