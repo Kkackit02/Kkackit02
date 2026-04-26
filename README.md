@@ -261,11 +261,12 @@ Jack's Bean 팀 개발 게임<br>
 </tr><tr valign="top">
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png" width="100%"/></a><br>
+<a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png"https://img.youtube.com/vi/A_HSxfkOpQQ/maxresdefault.jpg"100%"/></a><br>
 <b>F1 Card</b> <code>팀</code><br>
 Jack's Bean 팀 개발 카드 게임<br>
 클라이언트 프로그래머<br>
-<sub>Unity · C#</sub><br>
+<sub>Unity · C#</sub>
+<br><a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://img.shields.io/badge/Demo_Video_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/w9BJksMjOCg"><img src="https://img.shields.io/badge/Demo_Video_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
