@@ -1,6 +1,6 @@
 <div align="center">
 
-# ?뺢렐??(Jeong Geun Nyeong)
+# 정근녕 (Jeong Geun Nyeong)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Game+Client+Developer;Graphics+%26+Rendering+Programmer;Game+Engine+Developer">
@@ -13,40 +13,40 @@
 
 ---
 
-## ?럳 ?숇젰
-### **嫄닿뎅??숆탳 (Konkuk University)**
-### `2021-03 ~` KU?듯빀怨쇳븰湲곗닠???ㅻ쭏?퇙CT?듯빀怨듯븰怨?
-### `2025-03 ~` 怨듦낵???而댄벂?곌났?숇?
+## 🎓 학력
+### **건국대학교 (Konkuk University)**
+### `2021-03 ~` KU융합과학기술원 스마트ICT융합공학과
+### `2025-03 ~` 공과대학 컴퓨터공학부
 
 ---
 
-## ?룇 ? ?쒕룞 & ?꾨줈?앺듃
+## 🏆 팀 활동 & 프로젝트
 
-### ?뙋 ?몃? ?쒕룞
+### 🌐 외부 활동
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="25%" align="left">?쒕룞&nbsp;&nbsp;</th>
-      <th width="14%" align="center">湲곌컙&nbsp;</th>
-      <th width="61%" align="left">??븷 쨌 ?댁슜&nbsp;</th>
+      <th width="25%" align="left">활동&nbsp;&nbsp;</th>
+      <th width="14%" align="center">기간&nbsp;</th>
+      <th width="61%" align="left">역할 · 내용&nbsp;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>AutoCake</b><br><small><a href="https://github.com/Kkackit02/AutoCake"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-AutoCake-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2026-04<br>~ ?꾩옱</td>
-      <td>臾댁씤 ?먮룞??而ㅼ뒪? 耳?댄겕 ?뚮옯??李쎌뾽 湲고쉷<br>S/W쨌H/W ?듯빀 ?꾪궎?띿쿂 ?ㅺ퀎 쨌 ??쨌 ?붿옄??異붿쿇 AI 쨌 ?덊꽣留??꾨┛??쨌 ?ㅻ쭏???쎌뾽</td>
+      <td align="center">2026-04<br>~ 현재</td>
+      <td>무인 자동화 커스텀 케이크 플랫폼 창업 기획<br>S/W·H/W 통합 아키텍처 설계 · 웹 · 디자인 추천 AI · 레터링 프린터 · 스마트 픽업</td>
     </tr>
     <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2024-01<br>~ ?꾩옱</td>
-      <td>Sound Of Slash ?대씪?댁뼵??쨌 諛깆뿏??br>Sound Of Slash Editor ?대씪?댁뼵??쨌 梨꾨낫 蹂??AI<br>LoP Survivor PM<br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoundOfSlash-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td align="center">2024-01<br>~ 현재</td>
+      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM<br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoundOfSlash-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>WARP</b> (?댁씪? 癒몄?)<br><small><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2025-10<br>~ 2025-11</td>
-      <td>以묎컙 ?⑸쪟 쨌 而룹뵮 留ㅻ땲? 쨌 Enemy 媛쒕컻 쨌 異쒖떆 ???붾쾭源?br>Unity 寃뚯엫 쨌 <b>PUBG Best Game of the Year 2025 ?쪍</b><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
       <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
@@ -56,105 +56,105 @@
     <tr>
       <td><b>Jack's Bean</b><br><small><a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2021-05<br>~ 2022-07</td>
-      <td>?대씪?댁뼵???꾨줈洹몃옒癒?br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Jacks_Bean_Infinite_Monkey-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Jacks_Bean_Infinite_Monkey-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>?룸쭏釉?寃뚯엫?꾩뭅?곕? 4湲?/b><br><small>?붿뼇?고솕</small></td>
+      <td><b>넷마블 게임아카데미 4기</b><br><small>화양연화</small></td>
       <td align="center">2019-05<br>~ 2020-01</td>
-      <td>湲고쉷 쨌 ?꾨줈洹몃옒癒?쨌 <b>????룇</b><br><a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-US_Netmarble_4th-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>기획 · 프로그래머 · <b>대상 🏆</b><br><a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-US_Netmarble_4th-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>怨좊벑?숆탳 ?숈븘由?/b><br><small>ARTLOGIC</small></td>
+      <td><b>고등학교 동아리</b><br><small>ARTLOGIC</small></td>
       <td align="center">2019-03<br>~ 2019-12</td>
-      <td>?꾪듃?붿옄??쨌 湲고쉷 쨌 ?꾨줈洹몃옒癒?br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Random_Walk-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Random_Walk-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
 
 <br>
 
-### ?룶 ?숆탳 ?꾨줈?앺듃 (嫄닿뎅?)
+### 🏫 학교 프로젝트 (건국대)
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="28%" align="left">?꾨줈?앺듃&nbsp;&nbsp;&nbsp;</th>
-      <th width="14%" align="center">湲곌컙&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th width="58%" align="left">??븷 쨌 ?댁슜&nbsp;&nbsp;</th>
+      <th width="28%" align="left">프로젝트&nbsp;&nbsp;&nbsp;</th>
+      <th width="14%" align="center">기간&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th width="58%" align="left">역할 · 내용&nbsp;&nbsp;</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>P.R.I.S.M</b><br><small><a href="https://github.com/Kobold-Troll-Murloc"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Kobold--Troll--Murloc-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2026-02<br>~ ?꾩옱</td>
-      <td>?붿쭊 ?꾪궎?띿쿂 ?ㅺ퀎 쨌 RayTracing ?뚮뜑留??곌뎄<br>Vulkan 湲곕컲 SoftBody RayTracing Render Engine<br><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-P.R.I.S.M-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td align="center">2026-02<br>~ 현재</td>
+      <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구<br>Vulkan 기반 SoftBody RayTracing Render Engine<br><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-P.R.I.S.M-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>罹≪뒪???붿옄??/b>(議몄뾽?꾨줈?앺듃)<br><small><a href="https://github.com/KonkukCSECapstoneTeam2-26-1"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KonkukCSECapstoneTeam2-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2026-04<br>~ ?꾩옱</td>
-      <td>MIDI Parser 쨌 ?쇱븘???댁?踰?蹂?섍린 援ы쁽<br><a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-PianoHandSimulator-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td><b>캡스톤 디자인</b>(졸업프로젝트)<br><small><a href="https://github.com/KonkukCSECapstoneTeam2-26-1"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KonkukCSECapstoneTeam2-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td align="center">2026-04<br>~ 현재</td>
+      <td>MIDI Parser · 피아노 운지법 변환기 구현<br><a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-PianoHandSimulator-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>?숈깮蹂듭??꾩썝???덊럹?댁?</b><br><small><a href="https://github.com/41-Welfare-Web"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-41--Welfare--Web-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td><b>학생복지위원회 홈페이지</b><br><small><a href="https://github.com/41-Welfare-Web"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-41--Welfare--Web-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2026-01<br>~</td>
-      <td>諛깆뿏??援ы쁽 쨌 ?대씪?곕뱶 ?쒕퉬??愿由?br>TypeScript ??ㅽ깮 ???쒕퉬??br><a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU_WelfareWeb_BackEnd-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>백엔드 구현 · 클라우드 서비스 관리<br>TypeScript 풀스택 웹 서비스<br><a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU_WelfareWeb_BackEnd-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>?뚰봽?몄썾???꾪궎?띿쿂</b><br><small><a href="https://github.com/Konkuk-SoftwareArchitecture-7"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoftwareArchitecture--7-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td><b>소프트웨어 아키텍처</b><br><small><a href="https://github.com/Konkuk-SoftwareArchitecture-7"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoftwareArchitecture--7-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2025-10<br>~</td>
-      <td>GridSystem ?꾪궎?띿쿂 由ы뙥?좊쭅 쨌 援ы쁽 쨌 ?섏뾽 ? ?꾨줈?앺듃<br><a href="https://github.com/Konkuk-SoftwareArchitecture-7/EDITOR"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-EDITOR-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>GridSystem 아키텍처 리팩토링 · 구현 · 수업 팀 프로젝트<br><a href="https://github.com/Konkuk-SoftwareArchitecture-7/EDITOR"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-EDITOR-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>紐⑤컮?쇳봽濡쒓렇?섎컢</b><br><small><a href="https://github.com/KU-T07"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU--T07-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td><b>모바일프로그래밍</b><br><small><a href="https://github.com/KU-T07"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU--T07-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2025-04<br>~</td>
-      <td>吏??API ?곕룞 쨌 Front 援ы쁽 쨌 Firebase DB ?곕룞<br>罹좏띁??紐⑤컮????(Kotlin)<br><a href="https://github.com/KU-T07/CampusPeer"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-CampusPeer-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>지도 API 연동 · Front 구현 · Firebase DB 연동<br>캠퍼스 모바일 앱 (Kotlin)<br><a href="https://github.com/KU-T07/CampusPeer"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-CampusPeer-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>?뱀깋吏?<br>誘몃뵒???꾪듃 遺??/b><br><small>5?</small></td>
+      <td><b>녹색지대<br>미디어 아트 부스</b><br><small>5팀</small></td>
       <td align="center">2025</td>
-      <td>誘몃뵒?댁븘???ㅺ퀎 쨌 遺??援ъ긽 쨌 泥댄뿕???꾨줈洹몃옩 媛쒕컻<br>嫄닿뎅? ?щ쫫異뺤젣 ?명꽣?숉떚釉?誘몃뵒???꾪듃<br><a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KONKUK_FLOW-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발<br>건국대 여름축제 인터랙티브 미디어 아트<br><a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KONKUK_FLOW-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>MT-Go</b><br><small>媛쒖씤</small></td>
+      <td><b>MT-Go</b><br><small>개인</small></td>
       <td align="center">2025-04</td>
-      <td>MT ?쇱젙 議곗쑉 ???쒕퉬???ㅺ퀎 쨌 援ы쁽<br>React 쨌 TypeScript 쨌 Supabase<br><a href="https://github.com/Kkackit02/MT-Go"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-MT--Go-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>MT 일정 조율 웹 서비스 설계 · 구현<br>React · TypeScript · Supabase<br><a href="https://github.com/Kkackit02/MT-Go"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-MT--Go-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>EDGE 2024 ?곷컲湲?/b><br><small><a href="https://github.com/EGDC-24-1-8"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-EGDC--24--1--8-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td><b>EDGE 2024 상반기</b><br><small><a href="https://github.com/EGDC-24-1-8"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-EGDC--24--1--8-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2024</td>
-      <td>湲고쉷 諛??대씪?댁뼵??媛쒕컻<br>移대뱶 ?ш린 寃뚯엫<br><a href="https://github.com/EGDC-24-1-8/2024_1_Edge_GameDevContestProject"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Unfolded-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>기획 및 클라이언트 개발<br>카드 사기 게임<br><a href="https://github.com/EGDC-24-1-8/2024_1_Edge_GameDevContestProject"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Unfolded-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>EDGE 2021 ?섎컲湲?/b><br><small>媛쒖씤</small></td>
+      <td><b>EDGE 2021 하반기</b><br><small>개인</small></td>
       <td align="center">2021</td>
-      <td>湲고쉷 쨌 ?붿옄??쨌 ?대씪?댁뼵??媛쒕컻<br><a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>기획 · 디자인 · 클라이언트 개발<br><a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td><b>EDGE 2021 ?곷컲湲?/b><br><small><a href="https://github.com/Hi-Juice"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Hi--Juice-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
+      <td><b>EDGE 2021 상반기</b><br><small><a href="https://github.com/Hi-Juice"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Hi--Juice-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
       <td align="center">2021</td>
-      <td>?멸쾶??蹂댁뒪 쨌 ?꾨컲?곸씤 湲곕뒫 媛쒕컻 쨌 <b>1???섏긽 ?쪍</b><br><a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+      <td>인게임 보스 · 전반적인 기능 개발 · <b>1등 수상 🥇</b><br><a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## ?썱 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-### ?렜 Game Engine
+### 🎮 Game Engine
 [![Game Engine](https://skillicons.dev/icons?i=unity,unrealengine,cs&theme=dark)](https://skillicons.dev)
 
-### ?뮲 Language
+### 💻 Language
 [![Languages](https://skillicons.dev/icons?i=cpp,c,cs,python,kotlin,ts&theme=dark)](https://skillicons.dev)
 
-### ?뼢 Graphics
+### 🖥 Graphics
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-### ?곻툘 Backend / Infra
+### ☁️ Backend / Infra
 [![Backend](https://skillicons.dev/icons?i=nodejs,firebase,supabase&theme=dark)](https://skillicons.dev)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
@@ -162,17 +162,17 @@
 
 ---
 
-## ?렜 Game DEV Projects
+## 🎮 Game DEV Projects
 
 <table width="100%"><tr valign="top">
 
 <td width="50%">
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/3036410/header.jpg" width="100%"/></a><br>
-<b>Sound of Slash</b> <code>?</code><br>
-由щ벉 ?≪뀡 寃뚯엫 쨌 <b>Steam Early Access 異쒖떆 ?렜</b><br>
-Lead System Architect 쨌 Backend 쨌 ?멸쾶??濡쒖쭅<br>
-Firebase 쨌 Steam IAP 쨌 Server-Authoritative ?꾪궎?띿쿂<br>
-<sub>Unity 쨌 C# 쨌 Firebase 쨌 Node.js</sub><br>
+<b>Sound of Slash</b> <code>팀</code><br>
+리듬 액션 게임 · <b>Steam Early Access 출시 🎮</b><br>
+Lead System Architect · Backend · 인게임 로직<br>
+Firebase · Steam IAP · Server-Authoritative 아키텍처<br>
+<sub>Unity · C# · Firebase · Node.js</sub><br>
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Ussistant--Studio--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -180,10 +180,10 @@ Firebase 쨌 Steam IAP 쨌 Server-Authoritative ?꾪궎?띿쿂<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png" width="100%"/></a><br>
-<b>WARP</b> (?댁씪? 癒몄?) <code>?</code><br>
-PUBG <b>Best Game of the Year 2025 ?쪍</b><br>
-以묎컙 ?⑸쪟 쨌 而룹뵮 留ㅻ땲? 쨌 Enemy 쨌 ?붾쾭源?br>
-<sub>Unity 쨌 C#</sub><br>
+<b>WARP</b> (내일은 머지) <code>팀</code><br>
+PUBG <b>Best Game of the Year 2025 🥇</b><br>
+중간 합류 · 컷씬 매니저 · Enemy · 디버깅<br>
+<sub>Unity · C#</sub><br>
 <a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -193,19 +193,19 @@ PUBG <b>Best Game of the Year 2025 ?쪍</b><br>
 
 <td width="50%">
 <a href="https://youtu.be/AxCCCuW-iWY"><img src="https://img.youtube.com/vi/AxCCCuW-iWY/maxresdefault.jpg" width="100%"/></a><br>
-<b>KONKUK FLOW</b> <code>?</code><br>
-嫄닿뎅? 2025 ?뱀깋吏? ?щ쫫異뺤젣 誘몃뵒???꾪듃 遺??br>
-泥댄뿕???명꽣?숉떚釉?肄섑뀗痢?br>
-<sub>Unity 쨌 C# 쨌 Firebase</sub><br>
+<b>KONKUK FLOW</b> <code>팀</code><br>
+건국대 2025 녹색지대 여름축제 미디어 아트 부스<br>
+체험형 인터랙티브 콘텐츠<br>
+<sub>Unity · C# · Firebase</sub><br>
 <a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KONKUK_FLOW-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
 
 <td width="50%">
 <a href="https://www.youtube.com/watch?v=gZ0_UarQ-Y0"><img src="https://img.youtube.com/vi/gZ0_UarQ-Y0/maxresdefault.jpg" width="100%"/></a><br>
-<b>US ???룸쭏釉?寃뚯엫 ?꾩뭅?곕? 4湲?/b> <code>?</code><br>
-? &lt;?붿뼇?고솕&gt; ?쒖옉 寃뚯엫 쨌 <b>????룇</b><br>
-<sub>Unity 쨌 C#</sub><br>
+<b>US – 넷마블 게임 아카데미 4기</b> <code>팀</code><br>
+팀 &lt;화양연화&gt; 제작 게임 · <b>대상 🏆</b><br>
+<sub>Unity · C#</sub><br>
 <a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-US_Netmarble_GameAcademy_4th-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
@@ -214,19 +214,19 @@ PUBG <b>Best Game of the Year 2025 ?쪍</b><br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://opengraph.githubassets.com/1/Kkackit02/Operation_Ragnarok" width="100%"/></a><br>
-<b>Operation Ragnarok</b> <code>媛쒖씤</code><br>
-嫄닿뎅? EDGE 寃뚯엫媛쒕컻 寃쎌쭊???2021 ?섎컲湲?異쒗뭹??br>
-<sub>Unity 쨌 C#</sub><br>
+<b>Operation Ragnarok</b> <code>개인</code><br>
+건국대 EDGE 게임개발 경진대회 2021 하반기 출품작<br>
+<sub>Unity · C#</sub><br>
 <a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
 
 <td width="50%">
 <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://opengraph.githubassets.com/1/Hi-Juice/The-Strange-Land-of-OZ" width="100%"/></a><br>
-<b>The Strange Land of OZ</b> <code>?</code><br>
-嫄닿뎅? EDGE 寃뚯엫媛쒕컻 寃쎌쭊???2021 ?곷컲湲?쨌 <b>1???섏긽 ?쪍</b><br>
-?멸쾶??蹂댁뒪 쨌 ?꾨컲?곸씤 湲곕뒫 媛쒕컻<br>
-<sub>Unity 쨌 C#</sub><br>
+<b>The Strange Land of OZ</b> <code>팀</code><br>
+건국대 EDGE 게임개발 경진대회 2021 상반기 · <b>1등 수상 🥇</b><br>
+인게임 보스 · 전반적인 기능 개발<br>
+<sub>Unity · C#</sub><br>
 <a href="https://github.com/Hi-Juice"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Hi--Juice-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -236,10 +236,10 @@ PUBG <b>Best Game of the Year 2025 ?쪍</b><br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://opengraph.githubassets.com/1/Kkackit02/Ussistant-Studio-Archive" width="100%"/></a><br>
-<b>SOS Note Editor</b> <code>?</code><br>
-Sound Of Slash ?꾩슜 梨꾨낫 ?먮뵒??br>
-梨꾨낫 ?먮룞 蹂??AI ?뚯씠?꾨씪??援ы쁽<br>
-<sub>Unity 쨌 C# 쨌 Python</sub><br>
+<b>SOS Note Editor</b> <code>팀</code><br>
+Sound Of Slash 전용 채보 에디터<br>
+채보 자동 변환 AI 파이프라인 구현<br>
+<sub>Unity · C# · Python</sub><br>
 <a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -247,10 +247,10 @@ Sound Of Slash ?꾩슜 梨꾨낫 ?먮뵒??br>
 
 <td width="50%">
 <a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://opengraph.githubassets.com/1/The-Greatest-UX/The_Greatest_UX" width="100%"/></a><br>
-<b>The Greatest UX</b> <code>?</code><br>
-Jack's Bean ? 媛쒕컻 寃뚯엫<br>
-?대씪?댁뼵???꾨줈洹몃옒癒?br>
-<sub>Unity 쨌 C#</sub><br>
+<b>The Greatest UX</b> <code>팀</code><br>
+Jack's Bean 팀 개발 게임<br>
+클라이언트 프로그래머<br>
+<sub>Unity · C#</sub><br>
 <a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -260,10 +260,10 @@ Jack's Bean ? 媛쒕컻 寃뚯엫<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png" width="100%"/></a><br>
-<b>F1 Card</b> <code>?</code><br>
-Jack's Bean ? 媛쒕컻 移대뱶 寃뚯엫<br>
-?대씪?댁뼵???꾨줈洹몃옒癒?br>
-<sub>Unity 쨌 C#</sub><br>
+<b>F1 Card</b> <code>팀</code><br>
+Jack's Bean 팀 개발 카드 게임<br>
+클라이언트 프로그래머<br>
+<sub>Unity · C#</sub><br>
 <a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -271,10 +271,10 @@ Jack's Bean ? 媛쒕컻 移대뱶 寃뚯엫<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png" width="100%"/></a><br>
-<b>Game Development Archive</b> <code>媛쒖씤</code><br>
-媛쒖씤 寃뚯엫 媛쒕컻 ?꾨줈?앺듃 ?꾩뭅?대툕<br>
-WARP 쨌 ARTLOGIC ?숈븘由??묓뭹 ???ㅼ닔<br>
-<sub>Unity 쨌 C#</sub><br>
+<b>Game Development Archive</b> <code>개인</code><br>
+개인 게임 개발 프로젝트 아카이브<br>
+WARP · ARTLOGIC 동아리 작품 등 다수<br>
+<sub>Unity · C#</sub><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game--Development--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
@@ -283,25 +283,25 @@ WARP 쨌 ARTLOGIC ?숈븘由??묓뭹 ???ㅼ닔<br>
 
 ---
 
-## ?뼢 Graphics / Rendering
+## 🖥 Graphics / Rendering
 
 <table width="100%"><tr valign="top">
 
 <td width="50%">
 <a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><img src="https://opengraph.githubassets.com/1/Kobold-Troll-Murloc/P.R.I.S.M" width="100%"/></a><br>
-<b>P.R.I.S.M</b> <code>?</code><br>
-Vulkan 湲곕컲 SoftBody RayTracing Render Engine<br>
-?붿쭊 ?꾪궎?띿쿂 ?ㅺ퀎 쨌 RayTracing ?뚮뜑留??곌뎄<br>
-<sub>Vulkan 쨌 C 쨌 GLSL</sub><br>
+<b>P.R.I.S.M</b> <code>팀</code><br>
+Vulkan 기반 SoftBody RayTracing Render Engine<br>
+엔진 아키텍처 설계 · RayTracing 렌더링 연구<br>
+<sub>Vulkan · C · GLSL</sub><br>
 <a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-P.R.I.S.M-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Graphics-Programming-Lab"><img src="https://opengraph.githubassets.com/1/Kkackit02/Graphics-Programming-Lab" width="100%"/></a><br>
-<b>Graphics Programming Lab</b> <code>媛쒖씤</code><br>
-OpenGL / Vulkan 洹몃옒?쎌뒪 ?뚮뜑留??ㅼ뒿 ?꾩뭅?대툕<br>
-<sub>OpenGL 쨌 Vulkan 쨌 C++</sub><br>
+<b>Graphics Programming Lab</b> <code>개인</code><br>
+OpenGL / Vulkan 그래픽스 렌더링 실습 아카이브<br>
+<sub>OpenGL · Vulkan · C++</sub><br>
 <a href="https://github.com/Kkackit02/Graphics-Programming-Lab"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Graphics--Programming--Lab-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
@@ -310,16 +310,16 @@ OpenGL / Vulkan 洹몃옒?쎌뒪 ?뚮뜑留??ㅼ뒿 ?꾩뭅?대툕<br>
 
 ---
 
-## ?뮲 Dev ?꾨줈?앺듃
+## 💻 Dev 프로젝트
 
 <table width="100%"><tr valign="top">
 
 <td width="50%">
 <a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://opengraph.githubassets.com/1/41-Welfare-Web/KU_WelfareWeb_BackEnd" width="100%"/></a><br>
-<b>?숈깮蹂듭??꾩썝???덊럹?댁?</b> <code>?</code><br>
-TypeScript ??ㅽ깮 ???쒕퉬??쨌 ?ㅼ꽌鍮꾩뒪 ?댁쁺<br>
-諛깆뿏??援ы쁽 쨌 ?대씪?곕뱶 ?쒕퉬??愿由?br>
-<sub>TypeScript 쨌 NestJS 쨌 Supabase</sub><br>
+<b>학생복지위원회 홈페이지</b> <code>팀</code><br>
+TypeScript 풀스택 웹 서비스 · 실서비스 운영<br>
+백엔드 구현 · 클라우드 서비스 관리<br>
+<sub>TypeScript · NestJS · Supabase</sub><br>
 <a href="https://github.com/41-Welfare-Web"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-41--Welfare--Web-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU_WelfareWeb_BackEnd-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -327,9 +327,9 @@ TypeScript ??ㅽ깮 ???쒕퉬??쨌 ?ㅼ꽌鍮꾩뒪 ?댁쁺<br>
 
 <td width="50%">
 <a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator"><img src="https://opengraph.githubassets.com/1/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator" width="100%"/></a><br>
-<b>PianoHandSimulator</b> (罹≪뒪?? <code>?</code><br>
-MIDI Parser 쨌 ?쇱븘???댁?踰?蹂?섍린<br>
-<sub>Python 쨌 C++</sub><br>
+<b>PianoHandSimulator</b> (캡스톤) <code>팀</code><br>
+MIDI Parser · 피아노 운지법 변환기<br>
+<sub>Python · C++</sub><br>
 <a href="https://github.com/KonkukCSECapstoneTeam2-26-1"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KonkukCSECapstoneTeam2-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-PianoHandSimulator-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -339,9 +339,9 @@ MIDI Parser 쨌 ?쇱븘???댁?踰?蹂?섍린<br>
 
 <td width="50%">
 <a href="https://github.com/KU-T07/CampusPeer"><img src="https://opengraph.githubassets.com/1/KU-T07/CampusPeer" width="100%"/></a><br>
-<b>CampusPeer</b> <code>?</code><br>
-罹좏띁??紐⑤컮????쨌 吏??API 쨌 Firebase DB<br>
-<sub>Kotlin 쨌 Firebase</sub><br>
+<b>CampusPeer</b> <code>팀</code><br>
+캠퍼스 모바일 앱 · 지도 API · Firebase DB<br>
+<sub>Kotlin · Firebase</sub><br>
 <a href="https://github.com/KU-T07"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU--T07-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/KU-T07/CampusPeer"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-CampusPeer-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -349,9 +349,9 @@ MIDI Parser 쨌 ?쇱븘???댁?踰?蹂?섍린<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/MT-Go"><img src="https://opengraph.githubassets.com/1/Kkackit02/MT-Go" width="100%"/></a><br>
-<b>MT-Go</b> <code>媛쒖씤</code><br>
-MT ?쇱젙 議곗쑉 ???쒕퉬??br>
-<sub>React 쨌 TypeScript 쨌 Supabase</sub><br>
+<b>MT-Go</b> <code>개인</code><br>
+MT 일정 조율 웹 서비스<br>
+<sub>React · TypeScript · Supabase</sub><br>
 <a href="https://github.com/Kkackit02/MT-Go"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-MT--Go-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
@@ -360,7 +360,7 @@ MT ?쇱젙 議곗쑉 ???쒕퉬??br>
 
 ---
 
-## ?뱤 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -375,7 +375,7 @@ MT ?쇱젙 議곗쑉 ???쒕퉬??br>
 
 ---
 
-## ?벇 Contact & Blog
+## 📫 Contact & Blog
 
 <a href="mailto:rmssud03@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER_rmssud03-03C75A?style=flat-square&logo=NAVER&logoColor=white"/></a>
 <a href="mailto:jgn5493@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail_jgn5493-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
