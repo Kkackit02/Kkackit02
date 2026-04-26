@@ -222,7 +222,7 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://opengraph.githubassets.com/1/Hi-Juice/The-Strange-Land-of-OZ" width="100%"/></a><br>
+<a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/assets/OZ_Title.png" width="100%"/></a><br>
 <b>The Strange Land of OZ</b> <code>팀</code><br>
 건국대 EDGE 게임개발 경진대회 2021 상반기 · <b>1등 수상 🥇</b><br>
 인게임 보스 · 전반적인 기능 개발<br>
