@@ -251,11 +251,12 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://opengraph.githubassets.com/1/The-Greatest-UX/The_Greatest_UX" width="100%"/></a><br>
+<a href="https://www.youtube.com/watch?v=RJKSw-4Zd2o"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/TheGreatestUX_title.png" width="100%"/></a><br>
 <b>The Greatest UX</b> <code>팀</code><br>
 Jack's Bean 팀 개발 게임<br>
 클라이언트 프로그래머<br>
 <sub>Unity · C#</sub><br>
+<a href="https://www.youtube.com/watch?v=RJKSw-4Zd2o"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -269,7 +270,7 @@ Jack's Bean 팀 개발 게임<br>
 Jack's Bean 팀 개발 카드 게임<br>
 클라이언트 프로그래머<br>
 <sub>Unity · C#</sub><br>
-<a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://img.shields.io/badge/Demo_Video_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/w9BJksMjOCg"><img src="https://img.shields.io/badge/Demo_Video_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://www.youtube.com/watch?v=FQD0qBco2wY"><img src="https://img.shields.io/badge/Trailer-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://img.shields.io/badge/Demo_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/w9BJksMjOCg"><img src="https://img.shields.io/badge/Demo_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -293,6 +294,7 @@ WARP · ARTLOGIC 동아리 작품 등 다수<br>
 고등학교 ARTLOGIC 동아리 제작<br>
 아트디자인 · 기획 · 프로그래밍<br>
 <sub>Unity · C#</sub><br>
+<a href="https://drive.google.com/file/d/15wElLnk451BdyQPS8lludibCZOpxNXDw/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-I_Cross_Way-blue?style=flat-square&logo=google-drive&logoColor=white"/></a>
 <a href="https://youtu.be/32PQTnjKXwo"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -304,6 +306,7 @@ WARP · ARTLOGIC 동아리 작품 등 다수<br>
 고등학교 ARTLOGIC 동아리 제작<br>
 아트디자인 · 기획 · 프로그래밍<br>
 <sub>Unity · C#</sub><br>
+<a href="https://drive.google.com/file/d/1H6ODAdlQCQM1M7U4vOT1jIybY-NQpGWQ/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-Zombie_Cadaver-blue?style=flat-square&logo=google-drive&logoColor=white"/></a>
 <a href="https://youtu.be/wwHpC3P8_wM"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Zombie--Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -315,6 +318,7 @@ WARP · ARTLOGIC 동아리 작품 등 다수<br>
 <a href="https://youtu.be/INnNoY3Kqdk"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/LightHouse_1.png" width="100%"/></a><br>
 <b>Horror Light House</b> <code>개인</code><br>
 <sub>Unity · C#</sub><br>
+<a href="https://drive.google.com/file/d/1h55FE_KQWNuAeHZ5drAa3sM7TYrDiimB/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-Horror_Light_House-blue?style=flat-square&logo=google-drive&logoColor=white"/></a>
 <a href="https://youtu.be/INnNoY3Kqdk"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 <br><br>
 </td>
