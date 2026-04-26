@@ -203,10 +203,11 @@ Sound Of Slash 전용 채보 에디터<br>
 </td>
 
 <td width="50%">
-<a href="https://www.youtube.com/watch?v=gZ0_UarQ-Y0"><img src="https://img.youtube.com/vi/gZ0_UarQ-Y0/maxresdefault.jpg" width="100%"/></a><br>
+<a href="https://youtu.be/BboHEp3bOpg"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/US_title.png" width="100%"/></a><br>
 <b>US – 넷마블 게임 아카데미 4기</b> <code>팀</code><br>
 팀 &lt;화양연화&gt; 제작 게임 · <b>대상 🏆</b><br>
 <sub>Unity · C#</sub><br>
+<a href="https://youtu.be/BboHEp3bOpg"><img src="https://img.shields.io/badge/Video_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/I8omL7ITmXI"><img src="https://img.shields.io/badge/Video_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/YgcTGjLp1o4"><img src="https://img.shields.io/badge/Video_3-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/NaqcNTMoVtk"><img src="https://img.shields.io/badge/Video_4-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-US_Netmarble_GameAcademy_4th-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
@@ -263,7 +264,7 @@ Jack's Bean 팀 개발 게임<br>
 </tr><tr valign="top">
 
 <td width="50%">
-<a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://img.youtube.com/vi/A_HSxfkOpQQ/maxresdefault.jpg" width="49%"/></a><a href="https://youtu.be/w9BJksMjOCg"><img src="https://img.youtube.com/vi/w9BJksMjOCg/maxresdefault.jpg" width="49%"/></a><br>
+<a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/F1Card_1.png" width="100%"/></a><br>
 <b>F1 Card</b> <code>팀</code><br>
 Jack's Bean 팀 개발 카드 게임<br>
 클라이언트 프로그래머<br>
@@ -282,6 +283,43 @@ WARP · ARTLOGIC 동아리 작품 등 다수<br>
 <sub>Unity · C#</sub><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game--Development--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
+</td>
+
+</tr><tr valign="top">
+
+<td width="50%">
+<a href="https://youtu.be/32PQTnjKXwo"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/ICrossWay.png" width="100%"/></a><br>
+<b>I-Cross-Way</b> <code>개인</code><br>
+고등학교 ARTLOGIC 동아리 제작<br>
+아트디자인 · 기획 · 프로그래밍<br>
+<sub>Unity · C#</sub><br>
+<a href="https://youtu.be/32PQTnjKXwo"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br><br>
+</td>
+
+<td width="50%">
+<a href="https://youtu.be/wwHpC3P8_wM"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/Cadaver_1.png" width="100%"/></a><br>
+<b>Zombie Cadaver</b> <code>팀</code><br>
+고등학교 ARTLOGIC 동아리 제작<br>
+아트디자인 · 기획 · 프로그래밍<br>
+<sub>Unity · C#</sub><br>
+<a href="https://youtu.be/wwHpC3P8_wM"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Zombie--Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br><br>
+</td>
+
+</tr><tr valign="top">
+
+<td width="50%">
+<a href="https://youtu.be/INnNoY3Kqdk"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/LightHouse_1.png" width="100%"/></a><br>
+<b>Horror Light House</b> <code>개인</code><br>
+<sub>Unity · C#</sub><br>
+<a href="https://youtu.be/INnNoY3Kqdk"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<br><br>
+</td>
+
+<td width="50%">
 </td>
 
 </tr></table>
