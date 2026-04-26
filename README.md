@@ -20,125 +20,6 @@
 
 ---
 
-## 🏆 팀 활동 & 프로젝트
-
-### 🌐 외부 활동
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="25%" align="left">활동&nbsp;&nbsp;</th>
-      <th width="14%" align="center">기간&nbsp;</th>
-      <th width="61%" align="left">역할 · 내용&nbsp;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>AutoCake</b><br><small><a href="https://github.com/Kkackit02/AutoCake"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-AutoCake-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2026-04<br>~ 현재</td>
-      <td>무인 자동화 커스텀 케이크 플랫폼 창업 기획<br>S/W·H/W 통합 아키텍처 설계 · 웹 · 디자인 추천 AI · 레터링 프린터 · 스마트 픽업</td>
-    </tr>
-    <tr>
-      <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2024-01<br>~ 현재</td>
-      <td>Sound Of Slash 클라이언트 · 백엔드<br>Sound Of Slash Editor 클라이언트 · 채보 변환 AI<br>LoP Survivor PM<br><a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoundOfSlash-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>WARP</b> (내일은 머지)<br><small><a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2025-10<br>~ 2025-11</td>
-      <td>중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>Unity 게임 · <b>PUBG Best Game of the Year 2025 🥇</b><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>Ussistant Studio</b><br><small><a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2021-08<br>~ 2022-07</td>
-      <td>Ingame Play Programming<br>LastOfPenguin</td>
-    </tr>
-    <tr>
-      <td><b>Jack's Bean</b><br><small><a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2021-05<br>~ 2022-07</td>
-      <td>클라이언트 프로그래머<br><a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/The-Greatest-UX/Jacks_Bean_Infinite_Monkey"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Jacks_Bean_Infinite_Monkey-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-F1_Card-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>넷마블 게임아카데미 4기</b><br><small>화양연화</small></td>
-      <td align="center">2019-05<br>~ 2020-01</td>
-      <td>기획 · 프로그래머 · <b>대상 🏆</b><br><a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-US_Netmarble_4th-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>고등학교 동아리</b><br><small>ARTLOGIC</small></td>
-      <td align="center">2019-03<br>~ 2019-12</td>
-      <td>아트디자인 · 기획 · 프로그래머<br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Cadaver-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-I--Cross--Way-181717?style=flat-square&logo=github&logoColor=white"/></a><br><a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Infection-Simulate"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Random_Walk-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-### 🏫 학교 프로젝트 (건국대)
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="28%" align="left">프로젝트&nbsp;&nbsp;&nbsp;</th>
-      <th width="14%" align="center">기간&nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th width="58%" align="left">역할 · 내용&nbsp;&nbsp;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>P.R.I.S.M</b><br><small><a href="https://github.com/Kobold-Troll-Murloc"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Kobold--Troll--Murloc-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2026-02<br>~ 현재</td>
-      <td>엔진 아키텍처 설계 · RayTracing 렌더링 연구<br>Vulkan 기반 SoftBody RayTracing Render Engine<br><a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-P.R.I.S.M-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>캡스톤 디자인</b>(졸업프로젝트)<br><small><a href="https://github.com/KonkukCSECapstoneTeam2-26-1"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KonkukCSECapstoneTeam2-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2026-04<br>~ 현재</td>
-      <td>MIDI Parser · 피아노 운지법 변환기 구현<br><a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-PianoHandSimulator-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>학생복지위원회 홈페이지</b><br><small><a href="https://github.com/41-Welfare-Web"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-41--Welfare--Web-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2026-01<br>~</td>
-      <td>백엔드 구현 · 클라우드 서비스 관리<br>TypeScript 풀스택 웹 서비스<br><a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU_WelfareWeb_BackEnd-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>소프트웨어 아키텍처</b><br><small><a href="https://github.com/Konkuk-SoftwareArchitecture-7"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoftwareArchitecture--7-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2025-10<br>~</td>
-      <td>GridSystem 아키텍처 리팩토링 · 구현 · 수업 팀 프로젝트<br><a href="https://github.com/Konkuk-SoftwareArchitecture-7/EDITOR"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-EDITOR-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>모바일프로그래밍</b><br><small><a href="https://github.com/KU-T07"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU--T07-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2025-04<br>~</td>
-      <td>지도 API 연동 · Front 구현 · Firebase DB 연동<br>캠퍼스 모바일 앱 (Kotlin)<br><a href="https://github.com/KU-T07/CampusPeer"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-CampusPeer-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>녹색지대<br>미디어 아트 부스</b><br><small>5팀</small></td>
-      <td align="center">2025</td>
-      <td>미디어아트 설계 · 부스 구상 · 체험형 프로그램 개발<br>건국대 여름축제 인터랙티브 미디어 아트<br><a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KONKUK_FLOW-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>MT-Go</b><br><small>개인</small></td>
-      <td align="center">2025-04</td>
-      <td>MT 일정 조율 웹 서비스 설계 · 구현<br>React · TypeScript · Supabase<br><a href="https://github.com/Kkackit02/MT-Go"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-MT--Go-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>EDGE 2024 상반기</b><br><small><a href="https://github.com/EGDC-24-1-8"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-EGDC--24--1--8-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2024</td>
-      <td>기획 및 클라이언트 개발<br>카드 사기 게임<br><a href="https://github.com/EGDC-24-1-8/2024_1_Edge_GameDevContestProject"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Unfolded-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>EDGE 2021 하반기</b><br><small>개인</small></td>
-      <td align="center">2021</td>
-      <td>기획 · 디자인 · 클라이언트 개발<br><a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td><b>EDGE 2021 상반기</b><br><small><a href="https://github.com/Hi-Juice"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Hi--Juice-181717?style=flat-square&logo=github&logoColor=white"/></a></small></td>
-      <td align="center">2021</td>
-      <td>인게임 보스 · 전반적인 기능 개발 · <b>1등 수상 🥇</b><br><a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -168,7 +49,7 @@
 
 <td width="50%">
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/3036410/header.jpg" height="300"/></a><br>
-<b>Sound of Slash</b> <code>팀</code><br>
+<b>Sound of Slash</b> <code>팀</code> · <code>2024-01 ~ 현재</code><br>
 리듬 액션 게임 · <b>Steam Early Access 출시 🎮</b><br>
 Lead System Architect · Backend · 인게임 로직<br>
 Firebase · Steam IAP · Server-Authoritative 아키텍처<br>
@@ -181,7 +62,7 @@ Firebase · Steam IAP · Server-Authoritative 아키텍처<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://opengraph.githubassets.com/1/Kkackit02/Ussistant-Studio-Archive" height="300"/></a><br>
-<b>SOS Note Editor</b> <code>팀</code><br>
+<b>SOS Note Editor</b> <code>팀</code> · <code>2024-01 ~ 현재</code><br>
 Sound Of Slash 전용 채보 에디터<br>
 채보 자동 변환 AI 파이프라인 구현<br>
 <sub>Unity · C# · Python</sub><br>
@@ -194,7 +75,7 @@ Sound Of Slash 전용 채보 에디터<br>
 
 <td width="50%">
 <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OZ_title.png" height="300"/></a><br>
-<b>The Strange Land of OZ</b> <code>팀</code><br>
+<b>The Strange Land of OZ</b> <code>팀</code> · <code>2021</code><br>
 건국대 EDGE 게임개발 경진대회 2021 상반기 · <b>1등 수상 🥇</b><br>
 인게임 보스 · 전반적인 기능 개발<br>
 <sub>Unity · C#</sub><br>
@@ -208,7 +89,7 @@ Sound Of Slash 전용 채보 에디터<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OperationRagnarok_title.png" height="300"/></a><br>
-<b>Operation Ragnarok</b> <code>개인</code><br>
+<b>Operation Ragnarok</b> <code>개인</code> · <code>2021</code><br>
 건국대 EDGE 게임개발 경진대회 2021 하반기 출품작<br>
 기획 · 아트 · 프로그래밍 전담 · 우주 슈팅 전략 게임<br>
 <sub>Unity · C#</sub><br>
@@ -221,7 +102,7 @@ Sound Of Slash 전용 채보 에디터<br>
 
 <td width="50%">
 <a href="https://github.com/Merge-is-Mine"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/WARP_title.png" height="300"/></a><br>
-<b>WARP</b> (내일은 머지) <code>팀</code><br>
+<b>WARP</b> (내일은 머지) <code>팀</code> · <code>2025-10 ~ 2025-11</code><br>
 PUBG <b>Best Game of the Year 2025 🥇</b><br>
 중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>
 <sub>Unity · C#</sub><br>
@@ -233,7 +114,7 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/KonkukFlow_thumb.png" height="300"/></a><br>
-<b>KONKUK FLOW</b> <code>팀</code><br>
+<b>KONKUK FLOW</b> <code>팀</code> · <code>2025</code><br>
 건국대 2025 녹색지대 여름축제 미디어 아트 부스<br>
 체험형 인터랙티브 콘텐츠<br>
 <sub>Unity · C# · Firebase</sub><br>
@@ -246,7 +127,7 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/F1-Card"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/F1Card_1.png" height="300"/></a><br>
-<b>F1 Card</b> <code>팀</code><br>
+<b>F1 Card</b> <code>팀</code> · <code>2021 ~ 2022</code><br>
 Jack's Bean 팀 개발 카드 게임<br>
 클라이언트 프로그래머<br>
 <sub>Unity · C#</sub><br>
@@ -258,7 +139,7 @@ Jack's Bean 팀 개발 카드 게임<br>
 
 <td width="50%">
 <a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/TheGreatestUX_title.png" height="300"/></a><br>
-<b>The Greatest UX</b> <code>팀</code><br>
+<b>The Greatest UX</b> <code>팀</code> · <code>2021 ~ 2022</code><br>
 Jack's Bean 팀 개발 게임<br>
 클라이언트 프로그래머<br>
 <sub>Unity · C#</sub><br>
@@ -272,7 +153,7 @@ Jack's Bean 팀 개발 게임<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/ICrossWay.png" height="300"/></a><br>
-<b>I-Cross-Way</b> <code>개인</code><br>
+<b>I-Cross-Way</b> <code>개인</code> · <code>2019</code><br>
 고등학교 ARTLOGIC 동아리 제작<br>
 아트디자인 · 기획 · 프로그래밍<br>
 <sub>Unity · C#</sub><br>
@@ -284,7 +165,7 @@ Jack's Bean 팀 개발 게임<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Zombie-Cadaver"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/Cadaver_1.png" height="300"/></a><br>
-<b>Zombie Cadaver</b> <code>팀</code><br>
+<b>Zombie Cadaver</b> <code>팀</code> · <code>2019</code><br>
 고등학교 ARTLOGIC 동아리 제작<br>
 아트디자인 · 기획 · 프로그래밍<br>
 <sub>Unity · C#</sub><br>
@@ -298,7 +179,7 @@ Jack's Bean 팀 개발 게임<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/02-Projects/Light-House-Horror"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/LightHouse_1.png" height="300"/></a><br>
-<b>Horror Light House</b> <code>개인</code><br>
+<b>Horror Light House</b> <code>개인</code> · <code>2019</code><br>
 <sub>Unity · C#</sub><br>
 <a href="https://drive.google.com/file/d/1h55FE_KQWNuAeHZ5drAa3sM7TYrDiimB/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-Horror_Light_House-blue?style=flat-square&logo=google-drive&logoColor=white"/></a>
 <a href="https://youtu.be/INnNoY3Kqdk"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
@@ -307,7 +188,7 @@ Jack's Bean 팀 개발 게임<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/US_title.png" height="300"/></a><br>
-<b>US – 넷마블 게임 아카데미 4기</b> <code>팀</code><br>
+<b>US – 넷마블 게임 아카데미 4기</b> <code>팀</code> · <code>2019-05 ~ 2020-01</code><br>
 팀 &lt;화양연화&gt; 제작 게임 · <b>대상 🏆</b><br>
 <sub>Unity · C#</sub><br>
 <a href="https://youtu.be/BboHEp3bOpg"><img src="https://img.shields.io/badge/Video_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/I8omL7ITmXI"><img src="https://img.shields.io/badge/Video_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/YgcTGjLp1o4"><img src="https://img.shields.io/badge/Video_3-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/NaqcNTMoVtk"><img src="https://img.shields.io/badge/Video_4-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
@@ -325,7 +206,7 @@ Jack's Bean 팀 개발 게임<br>
 
 <td width="50%">
 <a href="https://github.com/Kobold-Troll-Murloc/P.R.I.S.M"><img src="https://opengraph.githubassets.com/1/Kobold-Troll-Murloc/P.R.I.S.M" height="300"/></a><br>
-<b>P.R.I.S.M</b> <code>팀</code><br>
+<b>P.R.I.S.M</b> <code>팀</code> · <code>2026-02 ~ 현재</code><br>
 Vulkan 기반 SoftBody RayTracing Render Engine<br>
 엔진 아키텍처 설계 · RayTracing 렌더링 연구<br>
 <sub>Vulkan · C · GLSL</sub><br>
@@ -352,7 +233,7 @@ OpenGL / Vulkan 그래픽스 렌더링 실습 아카이브<br>
 
 <td width="50%">
 <a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://opengraph.githubassets.com/1/41-Welfare-Web/KU_WelfareWeb_BackEnd" height="300"/></a><br>
-<b>학생복지위원회 홈페이지</b> <code>팀</code><br>
+<b>학생복지위원회 홈페이지</b> <code>팀</code> · <code>2026-01 ~</code><br>
 TypeScript 풀스택 웹 서비스 · 실서비스 운영<br>
 백엔드 구현 · 클라우드 서비스 관리<br>
 <sub>TypeScript · NestJS · Supabase</sub><br>
@@ -364,7 +245,7 @@ TypeScript 풀스택 웹 서비스 · 실서비스 운영<br>
 
 <td width="50%">
 <a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator"><img src="https://opengraph.githubassets.com/1/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator" height="300"/></a><br>
-<b>PianoHandSimulator</b> (캡스톤) <code>팀</code><br>
+<b>PianoHandSimulator</b> (캡스톤) <code>팀</code> · <code>2026-04 ~ 현재</code><br>
 MIDI Parser · 피아노 운지법 변환기<br>
 <sub>Python · C++</sub><br>
 <a href="https://github.com/KonkukCSECapstoneTeam2-26-1"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KonkukCSECapstoneTeam2-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
@@ -376,7 +257,7 @@ MIDI Parser · 피아노 운지법 변환기<br>
 
 <td width="50%">
 <a href="https://github.com/KU-T07/CampusPeer"><img src="https://opengraph.githubassets.com/1/KU-T07/CampusPeer" height="300"/></a><br>
-<b>CampusPeer</b> <code>팀</code><br>
+<b>CampusPeer</b> <code>팀</code> · <code>2025-04 ~</code><br>
 캠퍼스 모바일 앱 · 지도 API · Firebase DB<br>
 <sub>Kotlin · Firebase</sub><br>
 <a href="https://github.com/KU-T07"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KU--T07-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
@@ -386,7 +267,7 @@ MIDI Parser · 피아노 운지법 변환기<br>
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/MT-Go"><img src="https://opengraph.githubassets.com/1/Kkackit02/MT-Go" height="300"/></a><br>
-<b>MT-Go</b> <code>개인</code><br>
+<b>MT-Go</b> <code>개인</code> · <code>2025-04</code><br>
 MT 일정 조율 웹 서비스<br>
 <sub>React · TypeScript · Supabase</sub><br>
 <a href="https://github.com/Kkackit02/MT-Go"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-MT--Go-181717?style=flat-square&logo=github&logoColor=white"/></a>
