@@ -181,11 +181,13 @@ Firebase · Steam IAP · Server-Authoritative 아키텍처<br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png" width="100%"/></a><br>
+<a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/WARP_title.png" width="100%"/></a><br>
 <b>WARP</b> (내일은 머지) <code>팀</code><br>
 PUBG <b>Best Game of the Year 2025 🥇</b><br>
-중간 합류 · 컷씬 매니저 · Enemy · 디버깅<br>
+중간 합류 · 컷씬 매니저 · Enemy 개발 · 출시 전 디버깅<br>
 <sub>Unity · C#</sub><br>
+<img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/WARP_gameplay1.png" width="49%"/> <img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/WARP_gameplay2.png" width="49%"/><br>
+<img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/WARP_gameplay3.png" width="49%"/> <img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/WARP_gameplay4.png" width="49%"/><br>
 <a href="https://github.com/Merge-is-Mine"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Merge--is--Mine-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/WARP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Game_Dev_Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -215,17 +217,19 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 </tr><tr valign="top">
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/assets/OperationRagnarok.png" width="100%"/></a><br>
+<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OperationRagnarok_title.png" width="100%"/></a><br>
 <b>Operation Ragnarok</b> <code>개인</code><br>
 건국대 EDGE 게임개발 경진대회 2021 하반기 출품작<br>
-<sub>Unity · C#</sub>
-<br><a href="https://drive.google.com/file/d/1HFJgbd6aT-LJwAXvF2GCMZ7NtbIdwRG9/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Operation_Ragnarok-blue?style=flat-square&logo=google-drive&logoColor=white"/></a><br>
+기획 · 아트 · 프로그래밍 전담 · 우주 슈팅 전략 게임<br>
+<sub>Unity · C#</sub><br>
+<img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OperationRagnarok_gameplay.png" width="49%"/> <img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OperationRagnarok_dev.png" width="49%"/><br>
+<a href="https://drive.google.com/file/d/1HFJgbd6aT-LJwAXvF2GCMZ7NtbIdwRG9/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Operation_Ragnarok-blue?style=flat-square&logo=google-drive&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/assets/OZ_Title.png" width="100%"/></a><br>
+<a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OZ_title.png" width="100%"/></a><br>
 <b>The Strange Land of OZ</b> <code>팀</code><br>
 건국대 EDGE 게임개발 경진대회 2021 상반기 · <b>1등 수상 🥇</b><br>
 인게임 보스 · 전반적인 기능 개발<br>
