@@ -198,7 +198,7 @@ Sound Of Slash 전용 채보 에디터<br>
 건국대 2025 녹색지대 여름축제 미디어 아트 부스<br>
 체험형 인터랙티브 콘텐츠<br>
 <sub>Unity · C# · Firebase</sub><br>
-<a href="https://youtu.be/AxCCCuW-iWY"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://youtu.be/4DOQiSM-hx8"><img src="https://img.shields.io/badge/메인_시연-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/AxCCCuW-iWY"><img src="https://img.shields.io/badge/보조_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/d9q7BaApQlg"><img src="https://img.shields.io/badge/보조_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KONKUK_FLOW-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
