@@ -173,7 +173,8 @@
 Lead System Architect · Backend · 인게임 로직<br>
 Firebase · Steam IAP · Server-Authoritative 아키텍처<br>
 <sub>Unity · C# · Firebase · Node.js</sub>
-<br><a href="https://drive.google.com/file/d/1Jy8m8UrZlbK8Y-mB8SJ34wQzd5KPxrp3/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-WARP-blue?style=flat-square&logo=google-drive&logoColor=white"/></a><br>
+<br><a href="https://drive.google.com/file/d/1Jy8m8UrZlbK8Y-mB8SJ34wQzd5KPxrp3/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-WARP-blue?style=flat-square&logo=google-drive&logoColor=white"/></a>
+<br><br>
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Ussistant--Studio--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
@@ -261,7 +262,7 @@ Jack's Bean 팀 개발 게임<br>
 </tr><tr valign="top">
 
 <td width="50%">
-<a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://raw.githubusercontent.com/Kkackit02/Game-Development-Archive/master/WARP/assets/screenshot1.png"https://img.youtube.com/vi/A_HSxfkOpQQ/maxresdefault.jpg"100%"/></a><br>
+<a href="https://youtu.be/A_HSxfkOpQQ"><img src="https://img.youtube.com/vi/A_HSxfkOpQQ/maxresdefault.jpg" width="100%"/></a><br>
 <b>F1 Card</b> <code>팀</code><br>
 Jack's Bean 팀 개발 카드 게임<br>
 클라이언트 프로그래머<br>
