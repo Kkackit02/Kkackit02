@@ -220,7 +220,7 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 건국대 EDGE 게임개발 경진대회 2021 하반기 출품작<br>
 기획 · 아트 · 프로그래밍 전담 · 우주 슈팅 전략 게임<br>
 <sub>Unity · C#</sub><br>
-<a href="https://drive.google.com/file/d/1HFJgbd6aT-LJwAXvF2GCMZ7NtbIdwRG9/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Operation_Ragnarok-blue?style=flat-square&logo=google-drive&logoColor=white"/></a><br>
+<a href="https://drive.google.com/file/d/1HFJgbd6aT-LJwAXvF2GCMZ7NtbIdwRG9/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-Operation_Ragnarok-blue?style=flat-square&logo=google-drive&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
