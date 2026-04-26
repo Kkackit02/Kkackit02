@@ -193,7 +193,7 @@ Sound Of Slash 전용 채보 에디터<br>
 </tr><tr valign="top">
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/KonkukFlow_1.png" width="100%"/></a><br>
+<a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/KonkukFlow_thumb.png" width="100%"/></a><br>
 <b>KONKUK FLOW</b> <code>팀</code><br>
 건국대 2025 녹색지대 여름축제 미디어 아트 부스<br>
 체험형 인터랙티브 콘텐츠<br>
