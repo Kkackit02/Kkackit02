@@ -193,40 +193,6 @@ Sound Of Slash 전용 채보 에디터<br>
 </tr><tr valign="top">
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/KonkukFlow_thumb.png" width="100%" height="200"/></a><br>
-<b>KONKUK FLOW</b> <code>팀</code><br>
-건국대 2025 녹색지대 여름축제 미디어 아트 부스<br>
-체험형 인터랙티브 콘텐츠<br>
-<sub>Unity · C# · Firebase</sub><br>
-<a href="https://youtu.be/4DOQiSM-hx8"><img src="https://img.shields.io/badge/메인_시연-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/AxCCCuW-iWY"><img src="https://img.shields.io/badge/보조_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/d9q7BaApQlg"><img src="https://img.shields.io/badge/보조_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
-<a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KONKUK_FLOW-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<br><br>
-</td>
-
-<td width="50%">
-<a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/US_title.png" width="100%" height="200"/></a><br>
-<b>US – 넷마블 게임 아카데미 4기</b> <code>팀</code><br>
-팀 &lt;화양연화&gt; 제작 게임 · <b>대상 🏆</b><br>
-<sub>Unity · C#</sub><br>
-<a href="https://youtu.be/BboHEp3bOpg"><img src="https://img.shields.io/badge/Video_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/I8omL7ITmXI"><img src="https://img.shields.io/badge/Video_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/YgcTGjLp1o4"><img src="https://img.shields.io/badge/Video_3-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/NaqcNTMoVtk"><img src="https://img.shields.io/badge/Video_4-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
-<a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-US_Netmarble_GameAcademy_4th-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<br><br>
-</td>
-
-</tr><tr valign="top">
-
-<td width="50%">
-<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OperationRagnarok_title.png" width="100%" height="200"/></a><br>
-<b>Operation Ragnarok</b> <code>개인</code><br>
-건국대 EDGE 게임개발 경진대회 2021 하반기 출품작<br>
-기획 · 아트 · 프로그래밍 전담 · 우주 슈팅 전략 게임<br>
-<sub>Unity · C#</sub><br>
-<a href="https://drive.google.com/file/d/1HFJgbd6aT-LJwAXvF2GCMZ7NtbIdwRG9/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-Operation_Ragnarok-blue?style=flat-square&logo=google-drive&logoColor=white"/></a><br>
-<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<br><br>
-</td>
-
-<td width="50%">
 <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OZ_title.png" width="100%" height="200"/></a><br>
 <b>The Strange Land of OZ</b> <code>팀</code><br>
 건국대 EDGE 게임개발 경진대회 2021 상반기 · <b>1등 수상 🥇</b><br>
@@ -237,6 +203,17 @@ Sound Of Slash 전용 채보 에디터<br>
 <a href="https://youtu.be/dYBezBhVxqI"><img src="https://img.shields.io/badge/Gameplay-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
 <a href="https://github.com/Hi-Juice"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Hi--Juice-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Hi-Juice/The-Strange-Land-of-OZ"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Strange--Land--of--OZ-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br><br>
+</td>
+
+<td width="50%">
+<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/OperationRagnarok_title.png" width="100%" height="200"/></a><br>
+<b>Operation Ragnarok</b> <code>개인</code><br>
+건국대 EDGE 게임개발 경진대회 2021 하반기 출품작<br>
+기획 · 아트 · 프로그래밍 전담 · 우주 슈팅 전략 게임<br>
+<sub>Unity · C#</sub><br>
+<a href="https://drive.google.com/file/d/1HFJgbd6aT-LJwAXvF2GCMZ7NtbIdwRG9/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-Operation_Ragnarok-blue?style=flat-square&logo=google-drive&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/Operation_Ragnarok"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Operation_Ragnarok-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
 
@@ -255,14 +232,13 @@ PUBG <b>Best Game of the Year 2025 🥇</b><br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/TheGreatestUX_title.png" width="100%" height="200"/></a><br>
-<b>The Greatest UX</b> <code>팀</code><br>
-Jack's Bean 팀 개발 게임<br>
-클라이언트 프로그래머<br>
-<sub>Unity · C#</sub><br>
-<a href="https://www.youtube.com/watch?v=RJKSw-4Zd2o"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
-<a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
-<a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/KonkukFlow_thumb.png" width="100%" height="200"/></a><br>
+<b>KONKUK FLOW</b> <code>팀</code><br>
+건국대 2025 녹색지대 여름축제 미디어 아트 부스<br>
+체험형 인터랙티브 콘텐츠<br>
+<sub>Unity · C# · Firebase</sub><br>
+<a href="https://youtu.be/4DOQiSM-hx8"><img src="https://img.shields.io/badge/메인_시연-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/AxCCCuW-iWY"><img src="https://img.shields.io/badge/보조_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/d9q7BaApQlg"><img src="https://img.shields.io/badge/보조_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/KONKUK_FLOW"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-KONKUK_FLOW-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
 
@@ -281,6 +257,15 @@ Jack's Bean 팀 개발 카드 게임<br>
 </td>
 
 <td width="50%">
+<a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/TheGreatestUX_title.png" width="100%" height="200"/></a><br>
+<b>The Greatest UX</b> <code>팀</code><br>
+Jack's Bean 팀 개발 게임<br>
+클라이언트 프로그래머<br>
+<sub>Unity · C#</sub><br>
+<a href="https://www.youtube.com/watch?v=RJKSw-4Zd2o"><img src="https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://github.com/The-Greatest-UX"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The--Greatest--UX-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
+<a href="https://github.com/The-Greatest-UX/The_Greatest_UX"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-The_Greatest_UX-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br><br>
 </td>
 
 </tr><tr valign="top">
@@ -321,6 +306,13 @@ Jack's Bean 팀 개발 카드 게임<br>
 </td>
 
 <td width="50%">
+<a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/US_title.png" width="100%" height="200"/></a><br>
+<b>US – 넷마블 게임 아카데미 4기</b> <code>팀</code><br>
+팀 &lt;화양연화&gt; 제작 게임 · <b>대상 🏆</b><br>
+<sub>Unity · C#</sub><br>
+<a href="https://youtu.be/BboHEp3bOpg"><img src="https://img.shields.io/badge/Video_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/I8omL7ITmXI"><img src="https://img.shields.io/badge/Video_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/YgcTGjLp1o4"><img src="https://img.shields.io/badge/Video_3-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a> <a href="https://youtu.be/NaqcNTMoVtk"><img src="https://img.shields.io/badge/Video_4-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/US_Netmarble_GameAcademy_4th"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-US_Netmarble_GameAcademy_4th-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br><br>
 </td>
 
 </tr></table>
