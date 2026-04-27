@@ -62,12 +62,12 @@ Firebase · Steam IAP · Server-Authoritative 아키텍처<br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://opengraph.githubassets.com/1/Kkackit02/Ussistant-Studio-Archive" height="300"/></a><br>
-<b>SOS Note Editor</b> <code>팀</code> · <code>2024-01 ~ 현재</code><br>
-Sound Of Slash 전용 채보 에디터<br>
-채보 자동 변환 AI 파이프라인 구현<br>
-<sub>Unity · C# · Python</sub><br>
-<a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://raw.githubusercontent.com/Kkackit02/Ussistant-Studio-Archive/main/SOS_NoteEditor/images/editor_screenshot_1.png" height="300"/></a><br>
+<b>SOS Note Editor</b> <code>툴</code> ｜ <code>2024-01 ~ 현재</code><br>
+Sound Of Slash 전용 비트맵 에디터<br>
+채보 에디터 엔진 리팩토링 및 AI 자동 생성 파이프라인 구축<br>
+<sub>Unity ｜ C# ｜ Python</sub><br>
+<a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a><br>    
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
