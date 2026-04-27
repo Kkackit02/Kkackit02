@@ -52,10 +52,10 @@
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/3036410/header.jpg" height="300"/></a><br>
 <b>Sound of Slash</b> <code>팀</code> · <code>2024-04 ~ 현재</code><br>
 리듬 액션 게임 · <b>Steam Early Access 출시 🎮</b><br>
-인게임 클라이언트 개발 · 채보 에디터 메인테이너 · Firebase 백엔드<br>
+인게임 클라이언트 개발 · Firebase 백엔드<br>
 Hold · BackToBack · LongRange(EvilWood) · Missile 노트 설계 · ms 기반 판정 시스템 재설계<br>
 Firebase 서버 권위 경제 시스템 (BattlePass · Mission · 리더보드) · Steam IAP<br>
-<b>BIC · CBF · G-STAR 2024/2025 · 경희대 아트코리아랩 · LINC 3.0 캡스톤 전시 6회</b><br>
+<b>BIC · G-STAR 2024/2025 · 경희대 아트코리아랩 · LINC 3.0 캡스톤 전시 5회</b><br>
 <sub>Unity · C# · Firebase · Steamworks.NET · Node.js (TypeScript)</sub>
 <br><br>
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br>
