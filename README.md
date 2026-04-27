@@ -53,13 +53,14 @@
 <b>Sound of Slash</b> <code>팀</code> · <code>2024-04 ~ 현재</code><br>
 리듬 액션 게임 · <b>Steam Early Access 출시 🎮</b><br>
 인게임 클라이언트 개발 · 채보 에디터 메인테이너 · Firebase 백엔드<br>
-Hold/Rolling/LongRange/EvilWood 노트 4종 설계 · ms 기반 판정 시스템 재설계<br>
+Hold · BackToBack · LongRange(EvilWood) · Missile 노트 설계 · ms 기반 판정 시스템 재설계<br>
 Firebase 서버 권위 경제 시스템 (BattlePass · Mission · 리더보드) · Steam IAP<br>
-<b>BIC · CBF · G-STAR 2024/2025 오프라인 전시 4회</b> · 커밋 587+61<br>
+<b>BIC · CBF · G-STAR 2024/2025 · 경희대 아트코리아랩 · LINC 3.0 캡스톤 전시 6회</b><br>
 <sub>Unity · C# · Firebase · Steamworks.NET · Node.js (TypeScript)</sub>
 <br><br>
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br>
-<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Ussistant--Studio--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SoundOfSlash"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SoundOfSlash-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%EC%84%A4%EB%AA%85_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Ussistant--Studio--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
 
