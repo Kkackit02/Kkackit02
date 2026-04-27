@@ -52,9 +52,11 @@
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://cdn.akamai.steamstatic.com/steam/apps/3036410/header.jpg" height="300"/></a><br>
 <b>Sound of Slash</b> <code>팀</code> · <code>2024-04 ~ 현재</code><br>
 리듬 액션 게임 · <b>Steam Early Access 출시 🎮</b><br>
-인게임 클라이언트 · 에디터 메인테이너 · Firebase 백엔드<br>
-BIC · CBF · G-STAR 2024/2025 오프라인 전시 4회<br>
-<sub>Unity · C# · Firebase · Node.js</sub>
+인게임 클라이언트 개발 · 채보 에디터 메인테이너 · Firebase 백엔드<br>
+Hold/Rolling/LongRange/EvilWood 노트 4종 설계 · ms 기반 판정 시스템 재설계<br>
+Firebase 서버 권위 경제 시스템 (BattlePass · Mission · 리더보드) · Steam IAP<br>
+<b>BIC · CBF · G-STAR 2024/2025 오프라인 전시 4회</b> · 커밋 587+61<br>
+<sub>Unity · C# · Firebase · Steamworks.NET · Node.js (TypeScript)</sub>
 <br><br>
 <a href="https://store.steampowered.com/app/3036410/Sound_of_Slash/"><img src="https://img.shields.io/badge/Steam-Sound_of_Slash-1b2838?style=flat-square&logo=steam&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-Ussistant--Studio--Archive-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -64,9 +66,10 @@ BIC · CBF · G-STAR 2024/2025 오프라인 전시 4회<br>
 <td width="50%">
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://opengraph.githubassets.com/1/Kkackit02/Ussistant-Studio-Archive" height="300"/></a><br>
 <b>SOS Note Editor</b> <code>팀</code> · <code>2025-01 ~ 현재</code><br>
-Sound Of Slash 전용 채보 에디터<br>
-채보 자동 변환 AI 파이프라인 구현<br>
-<sub>Unity · C# · Python</sub><br>
+Sound of Slash 전용 채보 에디터 · <b>메인테이너 인수 (v0.4.0)</b><br>
+그리드 엔진 재설계 · Object Pooling · BeatSnap Divisor · Undo/Redo<br>
+MIDI + DNN v3.0 채보 자동 생성 파이프라인 구현<br>
+<sub>Unity · C# · Python · LINQ</sub><br>
 <a href="https://github.com/UssistantStudio"><img src="https://img.shields.io/badge/%EC%A1%B0%EC%A7%81_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-UssistantStudio-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 <a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/SOS_NoteEditor"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-SOS_NoteEditor-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
