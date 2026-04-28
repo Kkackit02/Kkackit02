@@ -267,7 +267,7 @@ MIDI Parser · 피아노 운지법 변환기<br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/MT-Go"><img src="https://raw.githubusercontent.com/Kkackit02/MT-Go/master/client/src/assets/hero.png" height="300"/></a><br>
+<a href="https://github.com/Kkackit02/MT-Go"><img src="https://opengraph.githubassets.com/1/Kkackit02/MT-Go" height="300"/></a><br>
 <b>MT-Go</b> <code>개인</code> · <code>2025-04</code><br>
 MT 일정 조율 웹 서비스<br>
 <sub>React · TypeScript · Supabase</sub><br>
