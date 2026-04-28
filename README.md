@@ -216,7 +216,7 @@ Vulkan 기반 SoftBody RayTracing Render Engine<br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Graphics-Programming-Lab"><img src="https://raw.githubusercontent.com/Kkackit02/Graphics-Programming-Lab/master/01-Academic-Courses/3-2-Advanced-Computer-Graphics/ACG_HomeWork3/202112346%20%EC%A0%95%EA%B7%BC%EB%85%95%20%EC%A0%9C%EC%B6%9C(Assignment1)/Spline%20Image.png" height="300"/></a><br>
+<a href="https://github.com/Kkackit02/Graphics-Programming-Lab"><img src="https://raw.githubusercontent.com/Kkackit02/Graphics-Programming-Lab/master/01-Academic-Courses/3-2-Advanced-Computer-Graphics/ACG_HomeWork3/202112346%20%EC%A0%95%EA%B7%BC%EB%85%95%20%EC%A0%9C%EC%B6%9C(Assignment1)/Spline%20Image.png" width="100%" style="aspect-ratio: 1200/630; object-fit: cover;"/></a><br>
 <b>Graphics Programming Lab</b> <code>개인</code><br>
 OpenGL / Vulkan 그래픽스 렌더링 실습 아카이브<br>
 <sub>OpenGL · Vulkan · C++</sub><br>
