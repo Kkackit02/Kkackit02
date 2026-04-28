@@ -216,7 +216,7 @@ Vulkan 기반 SoftBody RayTracing Render Engine<br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/Graphics-Programming-Lab"><img src="https://opengraph.githubassets.com/1/Kkackit02/Graphics-Programming-Lab" height="300"/></a><br>
+<a href="https://github.com/Kkackit02/Graphics-Programming-Lab"><img src="https://raw.githubusercontent.com/Kkackit02/Graphics-Programming-Lab/master/01-Academic-Courses/3-2-Advanced-Computer-Graphics/ACG_HomeWork3/202112346%20%EC%A0%95%EA%B7%BC%EB%85%95%20%EC%A0%9C%EC%B6%9C(Assignment1)/Spline%20Image.png" height="300"/></a><br>
 <b>Graphics Programming Lab</b> <code>개인</code><br>
 OpenGL / Vulkan 그래픽스 렌더링 실습 아카이브<br>
 <sub>OpenGL · Vulkan · C++</sub><br>
@@ -267,7 +267,7 @@ MIDI Parser · 피아노 운지법 변환기<br>
 </td>
 
 <td width="50%">
-<a href="https://github.com/Kkackit02/MT-Go"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-MT--Go-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/MT-Go"><img src="https://raw.githubusercontent.com/Kkackit02/MT-Go/master/client/src/assets/hero.png" height="300"/></a><br>
 <b>MT-Go</b> <code>개인</code> · <code>2025-04</code><br>
 MT 일정 조율 웹 서비스<br>
 <sub>React · TypeScript · Supabase</sub><br>
