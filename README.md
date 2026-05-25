@@ -153,6 +153,23 @@ Jack's Bean 팀 개발 게임<br>
 </tr><tr valign="top">
 
 <td width="50%">
+<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/LOP"><img src="https://raw.githubusercontent.com/Kkackit02/Ussistant-Studio-Archive/main/LOP/Img/title.png" height="300"/></a><br>
+<b>LOP</b> <code>팀</code> · <code>2022-02 ~ 2022-07</code><br>
+러닝 게임<br>
+게임 클라이언트 프로그래머<br>
+<sub>Unity · C#</sub><br>
+<a href="https://youtu.be/V7LeckzBSgE"><img src="https://img.shields.io/badge/Video_1-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://youtu.be/P15YdJ54RQ0"><img src="https://img.shields.io/badge/Video_2-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a><br>
+<a href="https://github.com/Kkackit02/Ussistant-Studio-Archive/tree/main/LOP"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-LOP-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br><br>
+</td>
+
+<td width="50%">
+</td>
+
+</tr><tr valign="top">
+
+<td width="50%">
 <a href="https://github.com/Kkackit02/Game-Development-Archive/tree/master/03-Practice/I-Cross-Way"><img src="https://raw.githubusercontent.com/Kkackit02/Kkackit02/main/assets/ICrossWay.png" height="300"/></a><br>
 <b>I-Cross-Way</b> <code>개인</code> · <code>2019</code><br>
 고등학교 ARTLOGIC 동아리 제작<br>
