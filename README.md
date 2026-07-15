@@ -250,6 +250,17 @@ OpenGL / Vulkan 그래픽스 렌더링 실습 아카이브<br>
 <table width="100%"><tr valign="top">
 
 <td width="50%">
+<a href="https://grapenote.vercel.app"><img src="https://opengraph.githubassets.com/1/Kkackit02/GrapeNote" height="300"/></a><br>
+<b>GrapeNote</b> <code>개인</code> · <code>2026-07 ~ 현재</code><br>
+악기 연습 진도 관리 웹 · <b>실서비스 운영 🍇</b><br>
+연습 영상 업로드 → 포도알 채우기 · 팀/파트장 검토 · 곡×멤버 현황판<br>
+<sub>Next.js · TypeScript · Supabase</sub><br>
+<a href="https://grapenote.vercel.app"><img src="https://img.shields.io/badge/라이브_데모-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Kkackit02/GrapeNote"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-GrapeNote-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br><br>
+</td>
+
+<td width="50%">
 <a href="https://github.com/41-Welfare-Web/KU_WelfareWeb_BackEnd"><img src="https://opengraph.githubassets.com/1/41-Welfare-Web/KU_WelfareWeb_BackEnd" height="300"/></a><br>
 <b>학생복지위원회 홈페이지</b> <code>팀</code> · <code>2026-01 ~</code><br>
 TypeScript 풀스택 웹 서비스 · 실서비스 운영<br>
@@ -261,6 +272,8 @@ TypeScript 풀스택 웹 서비스 · 실서비스 운영<br>
 <br><br>
 </td>
 
+</tr><tr valign="top">
+
 <td width="50%">
 <a href="https://github.com/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator"><img src="https://opengraph.githubassets.com/1/KonkukCSECapstoneTeam2-26-1/PianoHandSimulator" height="300"/></a><br>
 <b>PianoHandSimulator</b> (캡스톤) <code>팀</code> · <code>2026-04 ~ 현재</code><br>
@@ -271,8 +284,6 @@ MIDI Parser · 피아노 운지법 변환기<br>
 <br><br>
 </td>
 
-</tr><tr valign="top">
-
 <td width="50%">
 <a href="https://github.com/KU-T07/CampusPeer"><img src="https://opengraph.githubassets.com/1/KU-T07/CampusPeer" height="300"/></a><br>
 <b>CampusPeer</b> <code>팀</code> · <code>2025-04 ~</code><br>
@@ -282,6 +293,8 @@ MIDI Parser · 피아노 운지법 변환기<br>
 <a href="https://github.com/KU-T07/CampusPeer"><img src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8E%98%EC%9D%B4%EC%A7%80_%E2%86%92-CampusPeer-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br><br>
 </td>
+
+</tr><tr valign="top">
 
 <td width="50%">
 <a href="https://github.com/Kkackit02/MT-Go"><img src="https://opengraph.githubassets.com/1/Kkackit02/MT-Go" height="300"/></a><br>
